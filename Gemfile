@@ -14,3 +14,9 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+gem "github-pages", group: :jekyll_plugins
+
+# More Performance
+gem 'liquid', github: 'Shopify/liquid', branch: 'master'
+gem 'liquid-c', github: 'Shopify/liquid-c', branch: 'master'

@@ -1,1 +1,1 @@
-Sitemap: https://pmarsceill.github.io/just-the-docs/sitemap.xml
+Sitemap: /sitemap.xml
