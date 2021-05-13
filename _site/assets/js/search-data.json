@@ -7,25 +7,25 @@
   },"1": {
     "doc": "Module 2",
     "title": "Module 2",
-    "content": "# {{ page.title }} ",
+    "content": " ",
     "url": "http://localhost:4000/pages/Module2/",
     "relUrl": "/pages/Module2/"
   },"2": {
     "doc": "Module 3",
     "title": "Module 3",
-    "content": "# {{ page.title }} Module 3 ",
+    "content": "Module 3 . ",
     "url": "http://localhost:4000/pages/Module3/",
     "relUrl": "/pages/Module3/"
   },"3": {
     "doc": "Module 4",
     "title": "Module 4",
-    "content": "# {{ page.title }} Module 4 ",
+    "content": "Module 4 . ",
     "url": "http://localhost:4000/pages/Module4/",
     "relUrl": "/pages/Module4/"
   },"4": {
     "doc": "Module 5",
     "title": "Module 5",
-    "content": "# {{ page.title }} Module 5 ",
+    "content": "Module 5 . ",
     "url": "http://localhost:4000/pages/Module5/",
     "relUrl": "/pages/Module5/"
   },"5": {
