@@ -1,28 +1,58 @@
 {"0": {
     "doc": "Module 1",
     "title": "Module 1",
-    "content": "# Module 1 Module 1 ",
+    "content": "Module 1 . ",
     "url": "http://localhost:4000/pages/Module1/",
     "relUrl": "/pages/Module1/"
   },"1": {
+    "doc": "Module 2",
+    "title": "Module 2",
+    "content": "# {{ page.title }} ",
+    "url": "http://localhost:4000/pages/Module2/",
+    "relUrl": "/pages/Module2/"
+  },"2": {
+    "doc": "Module 3",
+    "title": "Module 3",
+    "content": "# {{ page.title }} Module 3 ",
+    "url": "http://localhost:4000/pages/Module3/",
+    "relUrl": "/pages/Module3/"
+  },"3": {
+    "doc": "Module 4",
+    "title": "Module 4",
+    "content": "# {{ page.title }} Module 4 ",
+    "url": "http://localhost:4000/pages/Module4/",
+    "relUrl": "/pages/Module4/"
+  },"4": {
+    "doc": "Module 5",
+    "title": "Module 5",
+    "content": "# {{ page.title }} Module 5 ",
+    "url": "http://localhost:4000/pages/Module5/",
+    "relUrl": "/pages/Module5/"
+  },"5": {
+    "doc": "Module 6",
+    "title": "Module 6",
+    "content": "Module 6 . ",
+    "url": "http://localhost:4000/pages/Module6/",
+    "relUrl": "/pages/Module6/"
+  },"6": {
     "doc": "About",
     "title": "About page",
     "content": "This page tells you a little bit about me. ",
     "url": "http://localhost:4000/pages/about/#about-page",
     "relUrl": "/pages/about/#about-page"
-  },"2": {
+  },"7": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "http://localhost:4000/pages/about/",
     "relUrl": "/pages/about/"
-  },"3": {
+  },"8": {
     "doc": "Accueil",
     "title": "  PHY1972 : Comprendre l'Univers ",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"4": {
+  },"9": {
     "doc": "Accueil",
     "title": "Accueil",
     "content": " ",
