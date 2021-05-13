@@ -61,7 +61,7 @@ search:
   button: false
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/Users/frederiquebaron/OneDrive - Universite de Montreal/siteweb/logo_phy1972.png"
+logo: "../logo_phy1972.png"
 
 
 # Enable or disable heading anchors
