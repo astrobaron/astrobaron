@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Module 5
-nav_order: 7
+title: Introduction
+nav_order: 2
 ---
 # {{ page.title }}
-
-Module 5

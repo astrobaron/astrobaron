@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-nav_order: 8
+title: À propos
+nav_order: 9
 
 ---
 # About page
