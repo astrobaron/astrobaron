@@ -1,0 +1,4 @@
+<figure id="{{ include.alt | replace: ' ', '-' }}" class="centre-element {{ include.class }}">
+    <img src="{{ include.src }}" alt="{{ include.alt }}"/>
+    {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>

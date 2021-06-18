@@ -3,13 +3,32 @@ layout: default
 title: Accueil
 nav_exclude: true
 ---
+
+body {
+  counter-reset: figures;
+  counter-reset: tables;
+}
+
+figure {
+  figcaption::before {
+    counter-increment: figures;
+    content: "Figure " counter(figures) ": ";
+  }
+}
+
+table {
+  caption::before {
+    counter-increment: tables;
+    content: "Table " counter(tables) ": ";
+  }
+}
 <header>
 
 <h1>  PHY1972 : Comprendre l'Univers </h1>
 
 <br>
 
-<p> Vous êtes sur le point d'entreprendre un grand périple qui vous fera visiter notre Système solaire jusqu'aux confins de l'espace, du début des temps jusqu'à des milliards d'années dans le futur. L'objectif de ce cours d'introduction à l'astronomie est de vous initier aux merveilles de notre Univers. Vous découvrirez des endroits et des phénomènes fascinants qui stimuleront votre curiosité. Peut-être aurez-vous le désir d'en apprendre davantage en consultant d'autres ouvrages ou en observant le ciel à l'aide de jumelles ou d'un petit télescope?
+<p> Vous êtes sur le point d'entreprendre un grand périple qui vous fera visiter notre Système solaire jusqu'aux confins de l'espace, du début des temps jusqu'à des milliards d'années dans le futur. L'objectif de ce cours d'introduction à l'astronomie est de vous initier aux merveilles de notre Univers. Vous découvrirez des endroits et des phénomènes fascinants qui stimuleront votre curiosité. Peut-être que, grâce à ce cours, vous aurez le désir d'en apprendre davantage sur l'astronomie en consultant divers ouvrages ou en observant le ciel à l'aide de jumelles ou d'un petit télescope?
 </p>
 
 

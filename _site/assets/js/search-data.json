@@ -14,117 +14,939 @@
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "1.1 Les étalons d’espace et de temps",
     "content": ". | Introduction | 1.1.1 Distances, dimensions et masses | 1.1.2 Le calendrier cosmique | 1.1.3 La mesure du temps en astronomie . | 1.1.3.A. Le jour solaire et le jour sidéral | 1.1.3.B. Le calendrier | . | . ",
-    "url": "http://localhost:4000/Module1p1/#11-les-%C3%A9talons-despace-et-de-temps",
-    "relUrl": "/Module1p1/#11-les-étalons-despace-et-de-temps"
+    "url": "http://localhost:4000/pages/Module1/Module1p1/#11-les-%C3%A9talons-despace-et-de-temps",
+    "relUrl": "/pages/Module1/Module1p1/#11-les-étalons-despace-et-de-temps"
   },"3": {
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "Introduction",
     "content": "Notre univers est très vaste et il existe depuis très longtemps. À l’échelle humaine, il est difficile d’imaginer la taille et l’âge de l’Univers. Les nombres deviennent si grands qu’ils défient notre compréhension. C’est pourquoi il est commode d’en faire un modèle spatial et temporel à l’échelle en utilisant des étalons plus appropriés. L’objectif des prochaines sections est d’établir ces étalons que nous utiliserons tout au long du cours. ",
-    "url": "http://localhost:4000/Module1p1/#introduction",
-    "relUrl": "/Module1p1/#introduction"
+    "url": "http://localhost:4000/pages/Module1/Module1p1/#introduction",
+    "relUrl": "/pages/Module1/Module1p1/#introduction"
   },"4": {
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "1.1.1 Distances, dimensions et masses",
-    "content": " ",
-    "url": "http://localhost:4000/Module1p1/#111-distances-dimensions-et-masses",
-    "relUrl": "/Module1p1/#111-distances-dimensions-et-masses"
+    "content": "Pour se donner une idée grossière des distances et des dimensions, commençons par citer quelques nombres astronomiques! Le tableau 1 présente la taille et la masse de la Terre et du Soleil ainsi que la distance moyenne qui les sépare. | Nom | Symbole | Valeur | . | Rayon de la Terre | $R_{\\oplus}$ | 6 400 km | . | Rayon du Soleil | $R_{\\odot}$ | 696 000 km | . | Masse de la Terre | $M_{\\oplus}$ | $6 \\times 10^{24}$ kg | . | Masse du Soleil | $M_{\\odot}$ | $2 \\times 10^{30}$ kg | . | Distance moyenne Terre-Soleil | UA | 49 600 000 km | . Tableau 1. Quelques nombres astronomiques (Note : on utilise souvent la notation exponentielle pour simplifier l’écriture des grands nombres. Voir la section Avant de commencer. pour plus d’informations.) . Il s’agit vraiment de très grands nombres et, comme toujours en physique, on définit plutôt des unités ou des étalons plus appropriés pour simplifier la notation. Ainsi, à l’échelle du système solaire, nous utiliserons : . | le rayon terrestre, $R_{\\oplus}$, comme étalon de la taille, . | la masse terrestre, $M_{\\oplus}$, comme étalon de la masse, . | la distance moyenne Terre-Soleil = 1 Unité Astronomique (UA) comme étalon de la distance. | . Avec ces étalons, on constate que : . | $1 R_{\\odot} \\approx 100 R_{\\oplus} $ | $1 M_{\\odot} \\approx 3.3 \\times 10^5 M_{\\oplus} $ | 1 UA $\\approx 200 R_{\\oplus} $ | . Ces étalons nous permettent de créer un modèle à l’échelle du système solaire comme celui des figues Figure 1 et Figure 2. An informative caption. Figure 1. Crédit : NASA. Figure 2. Crédit de l’image : NASA. Grâce à ce modèle, on se rend compte que le volume de l’orbite de la planète naine Pluton ne contient essentiellement que du vide. En fait, les planètes sont à des distances énormes par rapport à leur dimension. Bien que ces étalons dépassent déjà l’imagination, ils ne sont plus appropriés dans le domaine stellaire (étoiles, galaxies, etc.). Par exemple, la distance entre le Soleil et l’étoile la plus proche de nous, Alpha du Centaure, est de $4 \\times 10^{13}$ km ou 260 000 UA. Nous définissons donc de nouvelles unités telles le rayon et la masse du Soleil, $R_\\odot$ et $M_\\odot$, pour décrire les caractéristiques physiques des autres étoiles. Pour les mesures de distance, nous utiliserons un nouvel étalon astronomique, l’année-lumière. Ce dernier est défini de la façon suivante – une année-lumière (AL) est la distance parcourue par la lumière dans le vide en une année (la vitesse de la lumière vaut environ 300 000 km/s). En termes de nos étalons précédents, le kilomètre et l’unité astronomique, l’année-lumière vaut : 1 AL = 300 000 km/s x 3 x $10^7$ s = $ 9 \\times 10^{12}$ km = 60 000 UA . L’année-lumière n’est donc pas une mesure de temps, mais bien une mesure de distance. Si on utilise cet étalon à l’échelle du système solaire on trouve que : . | la distance Terre-Lune est de 1,3 secondes-lumière. | la distance Terre-Soleil est de 8 minutes-lumière. | la distance Terre-Jupiter varie entre 35 et 52 minutes-lumière. | la distance Terre-Pluton varie entre 5,3 et 5,6 heures-lumière. | . C’est-à-dire qu’en voyageant à la vitesse de la lumière il faudrait 1,3 secondes pour atteindre la Lune, 8 minutes pour atteindre le Soleil, etc. Si on revient aux distances stellaires, on constate que cet étalon est plus adéquat. Ainsi, la distance entre le Soleil et Alpha du Centaure est de 4,3 AL. Vu de cette étoile, le Soleil n’est plus qu’une étoile parmi les $2.5 \\times 10^{11}$ (deux cent cinquante milliards) autres étoiles de notre galaxie, la Voie Lactée. Il en va de même pour les $10^{11}$ (cent milliards) galaxies que nos télescopes nous révèlent. On se rend compte encore une fois que l’espace est pratiquement vide. Le tableau ci-dessous présente quelques autres distances typiques du domaine interstellaire et intergalactique. Finalement, il faut remarquer que, puisque la lumière voyage à une vitesse finie, on observe donc les astres tels qu’ils étaient au moment où ils ont émis cette lumière. Donc, à tout instant, on voit la Lune telle qu’elle était il y a 1,3 secondes, le Soleil tel qu’il était il y a 8 minutes, le centre de notre galaxie tel qu’il était il y a 30 000 ans, etc. Plus on observe des objets éloignés, plus on regarde dans le passé ! . | Tables | Are | Cool | . | col 1 is | left-aligned | $1600 | . | col 2 is | centered | $12 | . | col 3 is | right-aligned | $1 | . Tableau 2. Crédit de l’image : NASA. ",
+    "url": "http://localhost:4000/pages/Module1/Module1p1/#111-distances-dimensions-et-masses",
+    "relUrl": "/pages/Module1/Module1p1/#111-distances-dimensions-et-masses"
   },"5": {
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "1.1.2 Le calendrier cosmique",
     "content": " ",
-    "url": "http://localhost:4000/Module1p1/#112-le-calendrier-cosmique",
-    "relUrl": "/Module1p1/#112-le-calendrier-cosmique"
+    "url": "http://localhost:4000/pages/Module1/Module1p1/#112-le-calendrier-cosmique",
+    "relUrl": "/pages/Module1/Module1p1/#112-le-calendrier-cosmique"
   },"6": {
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "1.1.3 La mesure du temps en astronomie",
     "content": "Notre vie de tous les jours est ponctuée par le passage du temps à plusieurs échelles : une période de cours, une semaine de congé, une saison de ski, etc. Pour s’y retrouver, nous mesurons le passage du temps en termes de secondes, de minutes, d’heures, de jours, de mois et d’années. D’où vient cette façon de mesurer le temps ? . À l’origine, nos ancêtres ont utilisé divers mouvements des objets de la voûte céleste pour mesurer l’écoulement du temps. Pour bien comprendre, il faut se ramener à une époque où on croyait que la Terre était immobile et au centre de l’Univers. Bien sûr, ce n’est pas le cas et plusieurs des mouvements observés sur la voûte céleste résultent des mouvements de notre planète comme la rotation sur elle-même et sa révolution autour du Soleil. 1.1.3.A. Le jour solaire et le jour sidéral . 1.1.3.B. Le calendrier . ",
-    "url": "http://localhost:4000/Module1p1/#113-la-mesure-du-temps-en-astronomie",
-    "relUrl": "/Module1p1/#113-la-mesure-du-temps-en-astronomie"
+    "url": "http://localhost:4000/pages/Module1/Module1p1/#113-la-mesure-du-temps-en-astronomie",
+    "relUrl": "/pages/Module1/Module1p1/#113-la-mesure-du-temps-en-astronomie"
   },"7": {
     "doc": "1.1 Les étalons d'espace et de temps",
     "title": "1.1 Les étalons d'espace et de temps",
     "content": " ",
-    "url": "http://localhost:4000/Module1p1/",
-    "relUrl": "/Module1p1/"
+    "url": "http://localhost:4000/pages/Module1/Module1p1/",
+    "relUrl": "/pages/Module1/Module1p1/"
   },"8": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2 Évolution des idées en astrophysique",
+    "content": ". | 1.2.1 L’astronomie primitive | 1.2.2 Les philosophes grecs | 1.2.3 À l’aube de la Renaissance | 1.2.4 L’Univers héliocentrique de Nicolas Copernic | 1.2.5 Les observations de Tycho Brahe | 1.2.6 L’affrontement avec l’Église | 1.2.7 La mécanique céleste | 1.2.8 La relativité d’Einstein | 1.2.9 L’impact de l’astronomie sur l’humanité | 1.2.10 Commentaire | . ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/",
+    "relUrl": "/pages/Module1/Module1p2/"
+  },"9": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.1 L’astronomie primitive",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#121-lastronomie-primitive",
+    "relUrl": "/pages/Module1/Module1p2/#121-lastronomie-primitive"
+  },"10": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.2 Les philosophes grecs",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#122-les-philosophes-grecs",
+    "relUrl": "/pages/Module1/Module1p2/#122-les-philosophes-grecs"
+  },"11": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.3 À l’aube de la Renaissance",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#123-%C3%A0-laube-de-la-renaissance",
+    "relUrl": "/pages/Module1/Module1p2/#123-à-laube-de-la-renaissance"
+  },"12": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.4 L’Univers héliocentrique de Nicolas Copernic",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#124-lunivers-h%C3%A9liocentrique-de-nicolas-copernic",
+    "relUrl": "/pages/Module1/Module1p2/#124-lunivers-héliocentrique-de-nicolas-copernic"
+  },"13": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.5 Les observations de Tycho Brahe",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#125-les-observations-de-tycho-brahe",
+    "relUrl": "/pages/Module1/Module1p2/#125-les-observations-de-tycho-brahe"
+  },"14": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.6 L’affrontement avec l’Église",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#126-laffrontement-avec-l%C3%A9glise",
+    "relUrl": "/pages/Module1/Module1p2/#126-laffrontement-avec-léglise"
+  },"15": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.7 La mécanique céleste",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#127-la-m%C3%A9canique-c%C3%A9leste",
+    "relUrl": "/pages/Module1/Module1p2/#127-la-mécanique-céleste"
+  },"16": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.8 La relativité d’Einstein",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#128-la-relativit%C3%A9-deinstein",
+    "relUrl": "/pages/Module1/Module1p2/#128-la-relativité-deinstein"
+  },"17": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.9 L’impact de l’astronomie sur l’humanité",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#129-limpact-de-lastronomie-sur-lhumanit%C3%A9",
+    "relUrl": "/pages/Module1/Module1p2/#129-limpact-de-lastronomie-sur-lhumanité"
+  },"18": {
+    "doc": "1.2 Évolution des idées en astrophysique",
+    "title": "1.2.10 Commentaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p2/#1210-commentaire",
+    "relUrl": "/pages/Module1/Module1p2/#1210-commentaire"
+  },"19": {
+    "doc": "1.3 Les lois de la physique",
+    "title": "1.3 Les lois de la physique",
+    "content": ". | 1.3.1 Atome et spectre électromagnétique | 1.3.2 La lumière des étoiles | . Comme nous l’avons vu au tout début de ce module, l’objectif de l’astronomie et de l’astrophysique est de comprendre l’ensemble des phénomènes du cosmos et d’en donner une interprétation cohérente à l’aide des lois de la physique. La prochaine section propose donc une description de la nature de la matière et de la lumière ainsi que des grands principes physiques utiles à notre compréhension de l’Univers. Certains aspects spécifiques au monde des étoiles et des galaxies, telles les mesures de brillance, de couleur et de composition chimique sont aussi abordés. ",
+    "url": "http://localhost:4000/pages/Module1/Module1p3/",
+    "relUrl": "/pages/Module1/Module1p3/"
+  },"20": {
+    "doc": "1.3 Les lois de la physique",
+    "title": "1.3.1 Atome et spectre électromagnétique",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p3/#131-atome-et-spectre-%C3%A9lectromagn%C3%A9tique",
+    "relUrl": "/pages/Module1/Module1p3/#131-atome-et-spectre-électromagnétique"
+  },"21": {
+    "doc": "1.3 Les lois de la physique",
+    "title": "1.3.2 La lumière des étoiles",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p3/#132-la-lumi%C3%A8re-des-%C3%A9toiles",
+    "relUrl": "/pages/Module1/Module1p3/#132-la-lumière-des-étoiles"
+  },"22": {
+    "doc": "1.4 Sous nos yeux",
+    "title": "1.4 Sous nos yeux",
+    "content": ". | 1.4.1 Constellations | 1.4.2 Grands rendez-vous de la session | . ",
+    "url": "http://localhost:4000/pages/Module1/Module1p4/",
+    "relUrl": "/pages/Module1/Module1p4/"
+  },"23": {
+    "doc": "1.4 Sous nos yeux",
+    "title": "1.4.1 Constellations",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p4/#141-constellations",
+    "relUrl": "/pages/Module1/Module1p4/#141-constellations"
+  },"24": {
+    "doc": "1.4 Sous nos yeux",
+    "title": "1.4.2 Grands rendez-vous de la session",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module1/Module1p4/#142-grands-rendez-vous-de-la-session",
+    "relUrl": "/pages/Module1/Module1p4/#142-grands-rendez-vous-de-la-session"
+  },"25": {
     "doc": "Module 2",
     "title": "Module 2",
     "content": " ",
     "url": "http://localhost:4000/pages/Module2/",
     "relUrl": "/pages/Module2/"
-  },"9": {
+  },"26": {
+    "doc": "2.1 Les observatoires",
+    "title": "2.1 Les observatoires",
+    "content": ". | 2.1.1 L’emplacement | 2.1.2 Contrer les effets de l’atmosphère | 2.1.3 Les observatoires virtuels | . ",
+    "url": "http://localhost:4000/pages/Module2/Module2p1/",
+    "relUrl": "/pages/Module2/Module2p1/"
+  },"27": {
+    "doc": "2.1 Les observatoires",
+    "title": "2.1.1 L’emplacement",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p1/#211-lemplacement",
+    "relUrl": "/pages/Module2/Module2p1/#211-lemplacement"
+  },"28": {
+    "doc": "2.1 Les observatoires",
+    "title": "2.1.2 Contrer les effets de l’atmosphère",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p1/#212-contrer-les-effets-de-latmosph%C3%A8re",
+    "relUrl": "/pages/Module2/Module2p1/#212-contrer-les-effets-de-latmosphère"
+  },"29": {
+    "doc": "2.1 Les observatoires",
+    "title": "2.1.3 Les observatoires virtuels",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p1/#213-les-observatoires-virtuels",
+    "relUrl": "/pages/Module2/Module2p1/#213-les-observatoires-virtuels"
+  },"30": {
+    "doc": "2.2 Capter la lumière",
+    "title": "2.2 Capter la lumière",
+    "content": ". | 2.2.1 Les télescopes pour les domaines visible et infrarouge | 2.2.2 Les autres télescopes | 2.2.3 Disséquer la lumière | . À quelques exceptions près, tous les télescopes servent à capter des ondes électromagnétiques. Leur configuration et les équipements associés diffèrent beaucoup en fonction de la région spectrale d’intérêt, mais tous se conforment aux principes de base présentés dans la section 2.2.1. Pour cette raison, nous allons nous attarder aux instruments du domaine visible. Quelques exemples de télescopes fonctionnant dans d’autres domaines de longueur d’onde sont illustrés à la section 2.2.2. Finalement, nous terminerons ce module avec une description des principaux instruments utilisés par les astronomes pour capter et analyser la lumière des astres du cosmos. ",
+    "url": "http://localhost:4000/pages/Module2/Module2p2/",
+    "relUrl": "/pages/Module2/Module2p2/"
+  },"31": {
+    "doc": "2.2 Capter la lumière",
+    "title": "2.2.1 Les télescopes pour les domaines visible et infrarouge",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p2/#221-les-t%C3%A9lescopes-pour-les-domaines-visible-et-infrarouge",
+    "relUrl": "/pages/Module2/Module2p2/#221-les-télescopes-pour-les-domaines-visible-et-infrarouge"
+  },"32": {
+    "doc": "2.2 Capter la lumière",
+    "title": "2.2.2 Les autres télescopes",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p2/#222-les-autres-t%C3%A9lescopes",
+    "relUrl": "/pages/Module2/Module2p2/#222-les-autres-télescopes"
+  },"33": {
+    "doc": "2.2 Capter la lumière",
+    "title": "2.2.3 Disséquer la lumière",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module2/Module2p2/#223-diss%C3%A9quer-la-lumi%C3%A8re",
+    "relUrl": "/pages/Module2/Module2p2/#223-disséquer-la-lumière"
+  },"34": {
     "doc": "Module 3",
     "title": "Module 3",
     "content": "Module 3 . ",
     "url": "http://localhost:4000/pages/Module3/",
     "relUrl": "/pages/Module3/"
-  },"10": {
+  },"35": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1 Les systèmes de coordonnées",
+    "content": ". | 3.1.1 Les systèmes de coordonnées : se repérer | 3.1.2 Comment se repérer dans le ciel? | 3.1.3 Les mouvements de la Terre | 3.1.4 La rotation de la Terre et le mouvement apparent des étoiles | 3.1.5 La rotation de la Terre et le mouvement apparent du Soleil | 3.1.6 Le mouvement de révolution et les saisons | 3.1.7 L’aspect changeant du ciel | . Les astronomes utilisent plusieurs systèmes de coordonnées pour repérer les objets sur la voûte céleste et suivre leurs déplacements apparents et réels. Parmi ceux-ci, deux vont particulièrement retenir notre attention. En tenant compte des mouvements de la Terre, nous serons en mesure de comprendre les mouvements des étoiles et du Soleil dans le ciel. Avant de procéder, cependant, il est bon de se remémorer la façon avec laquelle on se repère à la surface de la Terre, c’est-à-dire de revoir le système de coordonnées terrestres. ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/",
+    "relUrl": "/pages/Module3/Module3p1/"
+  },"36": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.1 Les systèmes de coordonnées : se repérer",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#311-les-syst%C3%A8mes-de-coordonn%C3%A9es--se-rep%C3%A9rer",
+    "relUrl": "/pages/Module3/Module3p1/#311-les-systèmes-de-coordonnées--se-repérer"
+  },"37": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.2 Comment se repérer dans le ciel?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#312-comment-se-rep%C3%A9rer-dans-le-ciel",
+    "relUrl": "/pages/Module3/Module3p1/#312-comment-se-repérer-dans-le-ciel"
+  },"38": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.3 Les mouvements de la Terre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#313-les-mouvements-de-la-terre",
+    "relUrl": "/pages/Module3/Module3p1/#313-les-mouvements-de-la-terre"
+  },"39": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.4 La rotation de la Terre et le mouvement apparent des étoiles",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#314-la-rotation-de-la-terre-et-le-mouvement-apparent-des-%C3%A9toiles",
+    "relUrl": "/pages/Module3/Module3p1/#314-la-rotation-de-la-terre-et-le-mouvement-apparent-des-étoiles"
+  },"40": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.5 La rotation de la Terre et le mouvement apparent du Soleil",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#315-la-rotation-de-la-terre-et-le-mouvement-apparent-du-soleil",
+    "relUrl": "/pages/Module3/Module3p1/#315-la-rotation-de-la-terre-et-le-mouvement-apparent-du-soleil"
+  },"41": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.6 Le mouvement de révolution et les saisons",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#316-le-mouvement-de-r%C3%A9volution-et-les-saisons",
+    "relUrl": "/pages/Module3/Module3p1/#316-le-mouvement-de-révolution-et-les-saisons"
+  },"42": {
+    "doc": "3.1 Les systèmes de coordonnées",
+    "title": "3.1.7 L’aspect changeant du ciel",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p1/#317-laspect-changeant-du-ciel",
+    "relUrl": "/pages/Module3/Module3p1/#317-laspect-changeant-du-ciel"
+  },"43": {
+    "doc": "3.2 Description du Système Solaire",
+    "title": "3.2 Description du Système Solaire",
+    "content": ". | 3.2.1 Dynamique du système solaire | 3.2.2 Phases et aspect des planètes | 3.2.3 Mouvements rétrogrades des planètes | . ",
+    "url": "http://localhost:4000/pages/Module3/Module3p2/",
+    "relUrl": "/pages/Module3/Module3p2/"
+  },"44": {
+    "doc": "3.2 Description du Système Solaire",
+    "title": "3.2.1 Dynamique du système solaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p2/#321-dynamique-du-syst%C3%A8me-solaire",
+    "relUrl": "/pages/Module3/Module3p2/#321-dynamique-du-système-solaire"
+  },"45": {
+    "doc": "3.2 Description du Système Solaire",
+    "title": "3.2.2 Phases et aspect des planètes",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p2/#322-phases-et-aspect-des-plan%C3%A8tes",
+    "relUrl": "/pages/Module3/Module3p2/#322-phases-et-aspect-des-planètes"
+  },"46": {
+    "doc": "3.2 Description du Système Solaire",
+    "title": "3.2.3 Mouvements rétrogrades des planètes",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p2/#323-mouvements-r%C3%A9trogrades-des-plan%C3%A8tes",
+    "relUrl": "/pages/Module3/Module3p2/#323-mouvements-rétrogrades-des-planètes"
+  },"47": {
+    "doc": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "title": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "content": ". | 3.3.1 Parallaxe géocentrique et stellaire | 3.3.2 La bougie standard | 3.3.3 Mouvements stellaires | 3.3.4 L’échelle des distances – du système solaire aux galaxies | . Nous venons de voir comment, à l’aide de la 3e loi de Kepler, nous pouvons mesurer la distance relative des planètes dans le système solaire. Il existe évidemment d’autres techniques, comme l’utilisation du radar, pour obtenir cette information. L’échelle des distances dans le système solaire est un ingrédient essentiel pour interpréter correctement les paramètres physiques intrinsèques (masse, rayon, température, etc.) des planètes, des lunes ou de tout autre objet de notre système, ainsi que leur évolution. Il en va de même avec les étoiles et les galaxies. Afin de comprendre les propriétés physiques intrinsèques et l’évolution de ces objets, il faut avant tout connaître leur distance et leur mouvement par rapport à la Terre et au Soleil. Les prochaines sections décrivent quelques-unes des méthodes utilisées pour estimer la distance et la vitesse des étoiles et des galaxies par rapport à nous. ",
+    "url": "http://localhost:4000/pages/Module3/Module3p3/",
+    "relUrl": "/pages/Module3/Module3p3/"
+  },"48": {
+    "doc": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "title": "3.3.1 Parallaxe géocentrique et stellaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p3/#331-parallaxe-g%C3%A9ocentrique-et-stellaire",
+    "relUrl": "/pages/Module3/Module3p3/#331-parallaxe-géocentrique-et-stellaire"
+  },"49": {
+    "doc": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "title": "3.3.2 La bougie standard",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p3/#332-la-bougie-standard",
+    "relUrl": "/pages/Module3/Module3p3/#332-la-bougie-standard"
+  },"50": {
+    "doc": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "title": "3.3.3 Mouvements stellaires",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p3/#333-mouvements-stellaires",
+    "relUrl": "/pages/Module3/Module3p3/#333-mouvements-stellaires"
+  },"51": {
+    "doc": "3.3 La distance et la vitesse des étoiles et des galaxies",
+    "title": "3.3.4 L’échelle des distances – du système solaire aux galaxies",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module3/Module3p3/#334-l%C3%A9chelle-des-distances--du-syst%C3%A8me-solaire-aux-galaxies",
+    "relUrl": "/pages/Module3/Module3p3/#334-léchelle-des-distances--du-système-solaire-aux-galaxies"
+  },"52": {
     "doc": "Module 4",
     "title": "Module 4",
     "content": "Module 4 . ",
     "url": "http://localhost:4000/pages/Module4/",
     "relUrl": "/pages/Module4/"
-  },"11": {
+  },"53": {
+    "doc": "4.1 Le zoo planétaire",
+    "title": "4.1 Le zoo planétaire",
+    "content": ". | 4.1.1 Le système solaire | 4.1.2 Les planètes extrasolaires | . Nous entamons la description du zoo astronomique par une revue des structures planétaires. Il s’agit d’objets de petite taille si nous les comparons aux étoiles ou aux galaxies. Certaines structures planétaires sont solides; d’autres, gazeuses. En général, ces objets sont peu lumineux et froids puisqu’ils ne disposent pas de source d’énergie interne importante. Les corps planétaires sont des miroirs plus ou moins efficaces, réfléchissant la lumière de leur étoile parente. Dans un premier temps, nous passerons en revue les différentes structures qui composent notre système solaire. Nous décrirons ensuite les planètes extrasolaires ainsi que les méthodes qui permettent de les découvrir. ",
+    "url": "http://localhost:4000/pages/Module4/Module4p1/",
+    "relUrl": "/pages/Module4/Module4p1/"
+  },"54": {
+    "doc": "4.1 Le zoo planétaire",
+    "title": "4.1.1 Le système solaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p1/#411-le-syst%C3%A8me-solaire",
+    "relUrl": "/pages/Module4/Module4p1/#411-le-système-solaire"
+  },"55": {
+    "doc": "4.1 Le zoo planétaire",
+    "title": "4.1.2 Les planètes extrasolaires",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p1/#412-les-plan%C3%A8tes-extrasolaires",
+    "relUrl": "/pages/Module4/Module4p1/#412-les-planètes-extrasolaires"
+  },"56": {
+    "doc": "4.2 Le zoo stellaire",
+    "title": "4.2 Le zoo stellaire",
+    "content": ". | 4.2.1 Propriétés générales des étoiles | 4.2.2 Le diagramme HR | 4.2.3 Structures stellaires et sources d’énergies | 4.2.4 Le Soleil | . Une étoile est une boule de gaz incandescents retenus ensemble sous l’effet de la force de gravitation. Sa luminosité intrinsèque, c’est-à-dire la quantité d’énergie qu’elle émet chaque seconde sous forme de lumière, provient dans la majorité des cas d’un ensemble de réactions nucléaires qui ont lieu dans les régions internes de l’étoile. ",
+    "url": "http://localhost:4000/pages/Module4/Module4p2/",
+    "relUrl": "/pages/Module4/Module4p2/"
+  },"57": {
+    "doc": "4.2 Le zoo stellaire",
+    "title": "4.2.1 Propriétés générales des étoiles",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p2/#421-propri%C3%A9t%C3%A9s-g%C3%A9n%C3%A9rales-des-%C3%A9toiles",
+    "relUrl": "/pages/Module4/Module4p2/#421-propriétés-générales-des-étoiles"
+  },"58": {
+    "doc": "4.2 Le zoo stellaire",
+    "title": "4.2.2 Le diagramme HR",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p2/#422-le-diagramme-hr",
+    "relUrl": "/pages/Module4/Module4p2/#422-le-diagramme-hr"
+  },"59": {
+    "doc": "4.2 Le zoo stellaire",
+    "title": "4.2.3 Structures stellaires et sources d’énergies",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p2/#423-structures-stellaires-et-sources-d%C3%A9nergies",
+    "relUrl": "/pages/Module4/Module4p2/#423-structures-stellaires-et-sources-dénergies"
+  },"60": {
+    "doc": "4.2 Le zoo stellaire",
+    "title": "4.2.4 Le Soleil",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p2/#424-le-soleil",
+    "relUrl": "/pages/Module4/Module4p2/#424-le-soleil"
+  },"61": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3 Le zoo galactique",
+    "content": ". | 4.3.1 Description générale de la Voie Lactée | 4.3.2 Le milieu interstellaire | 4.3.3 La structure de notre galaxie | 4.3.4 La distribution des populations stellaires | 4.3.5 La dynamique de la Galaxie | 4.3.6 L’origine des bras spiraux | . Nous poursuivons maintenant la description des zoos astronomiques à une plus grande échelle. La prochaine structure que nous étudierons est notre galaxie : la Voie lactée. Cette galaxie, comme beaucoup d’autres, est composée d’un disque de gaz et d’étoiles jeunes baignant dans le milieu interstellaire et au centre duquel on retrouve un bulbe d’étoiles plus vieilles. Autour de ce disque, un halo d’étoiles vieilles entoure notre galaxie, lui même baignant dans un halo de matière non lumineuse appelée « matière sombre ». ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/",
+    "relUrl": "/pages/Module4/Module4p3/"
+  },"62": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.1 Description générale de la Voie Lactée",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#431-description-g%C3%A9n%C3%A9rale-de-la-voie-lact%C3%A9e",
+    "relUrl": "/pages/Module4/Module4p3/#431-description-générale-de-la-voie-lactée"
+  },"63": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.2 Le milieu interstellaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#432-le-milieu-interstellaire",
+    "relUrl": "/pages/Module4/Module4p3/#432-le-milieu-interstellaire"
+  },"64": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.3 La structure de notre galaxie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#433-la-structure-de-notre-galaxie",
+    "relUrl": "/pages/Module4/Module4p3/#433-la-structure-de-notre-galaxie"
+  },"65": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.4 La distribution des populations stellaires",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#434-la-distribution-des-populations-stellaires",
+    "relUrl": "/pages/Module4/Module4p3/#434-la-distribution-des-populations-stellaires"
+  },"66": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.5 La dynamique de la Galaxie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#435-la-dynamique-de-la-galaxie",
+    "relUrl": "/pages/Module4/Module4p3/#435-la-dynamique-de-la-galaxie"
+  },"67": {
+    "doc": "4.3 Le zoo galactique",
+    "title": "4.3.6 L’origine des bras spiraux",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p3/#436-lorigine-des-bras-spiraux",
+    "relUrl": "/pages/Module4/Module4p3/#436-lorigine-des-bras-spiraux"
+  },"68": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4 Le zoo extragalactique",
+    "content": ". | 4.4.1 Le nombre de galaxies | 4.4.2 La classification des galaxies | 4.4.3 Les galaxies normales | 4.4.4 Les galaxies actives | 4.4.5 Les galaxies normales et les galaxies actives | 4.4.6 La distribution des galaxies à petite échelle | 4.4.7 La distribution des galaxies à grande échelle | . intro . ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/",
+    "relUrl": "/pages/Module4/Module4p4/"
+  },"69": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.1 Le nombre de galaxies",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#441-le-nombre-de-galaxies",
+    "relUrl": "/pages/Module4/Module4p4/#441-le-nombre-de-galaxies"
+  },"70": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.2 La classification des galaxies",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#442-la-classification-des-galaxies",
+    "relUrl": "/pages/Module4/Module4p4/#442-la-classification-des-galaxies"
+  },"71": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.3 Les galaxies normales",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#443-les-galaxies-normales",
+    "relUrl": "/pages/Module4/Module4p4/#443-les-galaxies-normales"
+  },"72": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.4 Les galaxies actives",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#444-les-galaxies-actives",
+    "relUrl": "/pages/Module4/Module4p4/#444-les-galaxies-actives"
+  },"73": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.5 Les galaxies normales et les galaxies actives",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#445-les-galaxies-normales-et-les-galaxies-actives",
+    "relUrl": "/pages/Module4/Module4p4/#445-les-galaxies-normales-et-les-galaxies-actives"
+  },"74": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.6 La distribution des galaxies à petite échelle",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#446-la-distribution-des-galaxies-%C3%A0-petite-%C3%A9chelle",
+    "relUrl": "/pages/Module4/Module4p4/#446-la-distribution-des-galaxies-à-petite-échelle"
+  },"75": {
+    "doc": "4.4 Le zoo extragalactique",
+    "title": "4.4.7 La distribution des galaxies à grande échelle",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p4/#447-la-distribution-des-galaxies-%C3%A0-grande-%C3%A9chelle",
+    "relUrl": "/pages/Module4/Module4p4/#447-la-distribution-des-galaxies-à-grande-échelle"
+  },"76": {
+    "doc": "4.5 Le zoo cosmologique",
+    "title": "4.5 Le zoo cosmologique",
+    "content": ". | 4.5.1 La matière sombre | 4.5.2 L’énergie sombre | . La dernière section de ce module porte sur la description des structures à l’échelle cosmique, celles qui gouvernent l’Univers dans son ensemble. Nous les classons dans la catégorie du « zoo cosmologique ». ",
+    "url": "http://localhost:4000/pages/Module4/Module4p5/",
+    "relUrl": "/pages/Module4/Module4p5/"
+  },"77": {
+    "doc": "4.5 Le zoo cosmologique",
+    "title": "4.5.1 La matière sombre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p5/#451-la-mati%C3%A8re-sombre",
+    "relUrl": "/pages/Module4/Module4p5/#451-la-matière-sombre"
+  },"78": {
+    "doc": "4.5 Le zoo cosmologique",
+    "title": "4.5.2 L’énergie sombre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module4/Module4p5/#452-l%C3%A9nergie-sombre",
+    "relUrl": "/pages/Module4/Module4p5/#452-lénergie-sombre"
+  },"79": {
     "doc": "Module 5",
     "title": "Module 5",
     "content": "Module 5 . ",
     "url": "http://localhost:4000/pages/Module5/",
     "relUrl": "/pages/Module5/"
-  },"12": {
+  },"80": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1 Du Big Bang à aujourd’hui",
+    "content": ". | 5.1.1 Le principe cosmologique | 5.1.2 L’origine de la théorie du Big Bang | 5.1.3 Où s’est produit le Big Bang? | 5.1.4 Le rôle de la matière et de l’énergie | 5.1.5 Qu’y avait-il avant le Big Bang? | 5.1.6 Le Big Bang en bref | 5.1.7 Le destin de l’Univers | . Il est intéressant de constater que les questions qui fascinaient nos ancêtres ne sont pas tellement différentes de celles auxquelles s’intéresse la cosmologie moderne. D’où vient l’Univers? Depuis combien de temps existe-t-il? L’Univers aura-t-il une fin? L’Univers est-il fini ou infini? Ces questions demeurent sans réponse. Alors que nos ancêtres faisaient appel à différentes divinités pour expliquer ce qu’ils voyaient, nous ferons de notre côté appel à différentes « théories » afin d’expliquer ce que l’on observe de l’Univers. Il existe cependant une différence fondamentale entre les deux approches. Dans le premier cas, les dieux apportaient une réponse définitive à ces questions fondamentales. De leur côté, les différentes théories proposées par les cosmologistes comprendront une série de prédictions qu’il nous restera à vérifier à partir d’observations astronomiques. Qui n’a pas déjà esquissé un sourire à l’évocation de la croyance ancienne voulant que la Terre ne soit qu’une large roche plate de dimension finie et que, si l’on s’aventurait trop loin sur la mer, on risquait de tomber à l’extrémité dans le néant? Il a fallu le génie du libraire de la grande bibliothèque d’Alexandrie, Ératosthène (200 av. J.-C.), pour démontrer expérimentalement que la Terre est une sphère. Malgré cette démonstration, il a quand même fallu plusieurs siècles avant que des explorateurs se risquent sur les grands océans. Même si aujourd’hui il peut paraître ridicule que nos ancêtres aient considéré la Terre comme étant une roche plate de dimension finie, cette conclusion n’était cependant pas nécessairement en désaccord avec les observations de l’époque. Peut-être semblera-t-il aussi étrange à nos descendants du 25e siècle de constater que leurs ancêtres du 21e siècle se demandaient si l’Univers est fini ou infini! . ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#51-du-big-bang-%C3%A0-aujourdhui",
+    "relUrl": "/pages/Module5/Module5p1/#51-du-big-bang-à-aujourdhui"
+  },"81": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.1 Le principe cosmologique",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#511-le-principe-cosmologique",
+    "relUrl": "/pages/Module5/Module5p1/#511-le-principe-cosmologique"
+  },"82": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.2 L’origine de la théorie du Big Bang",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#512-lorigine-de-la-th%C3%A9orie-du-big-bang",
+    "relUrl": "/pages/Module5/Module5p1/#512-lorigine-de-la-théorie-du-big-bang"
+  },"83": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.3 Où s’est produit le Big Bang?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#513-o%C3%B9-sest-produit-le-big-bang",
+    "relUrl": "/pages/Module5/Module5p1/#513-où-sest-produit-le-big-bang"
+  },"84": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.4 Le rôle de la matière et de l’énergie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#514-le-r%C3%B4le-de-la-mati%C3%A8re-et-de-l%C3%A9nergie",
+    "relUrl": "/pages/Module5/Module5p1/#514-le-rôle-de-la-matière-et-de-lénergie"
+  },"85": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.5 Qu’y avait-il avant le Big Bang?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#515-quy-avait-il-avant-le-big-bang",
+    "relUrl": "/pages/Module5/Module5p1/#515-quy-avait-il-avant-le-big-bang"
+  },"86": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.6 Le Big Bang en bref",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#516-le-big-bang-en-bref",
+    "relUrl": "/pages/Module5/Module5p1/#516-le-big-bang-en-bref"
+  },"87": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1.7 Le destin de l’Univers",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/#517-le-destin-de-lunivers",
+    "relUrl": "/pages/Module5/Module5p1/#517-le-destin-de-lunivers"
+  },"88": {
+    "doc": "5.1 Du Big Bang à aujourd'hui",
+    "title": "5.1 Du Big Bang à aujourd'hui",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p1/",
+    "relUrl": "/pages/Module5/Module5p1/"
+  },"89": {
+    "doc": "5.2 L'origine et l'évolution des galaxies",
+    "title": "5.2 L’origine et l’évolution des galaxies",
+    "content": ". | 5.2.1 La formation d’une galaxie | 5.2.2 L’évolution des galaxies actives | 5.2.3 L’évolution des galaxies normales | . Comme nous l’avons vu au module 4, les galaxies ne forment pas un ensemble homogène. On distingue des elliptiques, des spirales normales ou barrées de même que des galaxies actives (radiogalaxies, Seyfert, etc.). Les classifications de Hubble et de Gérard de Vaucouleurs (voir la section 4.4.2 La classification des galaxies) permettent un tri préliminaire et font ressortir les propriétés générales des structures de ce que nous avons appelé le « zoo extragalactique ». Cependant, toute classification des galaxies pose le problème de l’évolution possible entre les divers types. Existe-t-il une séquence évolutive entre les galaxies actives et les galaxies normales? Existe-t-il un lien entre les radiogalaxies, les quasars et les galaxies de type Seyfert? . Nous sommes encore loin d’une théorie d’évolution et d’un système de classification unifiés. Cependant, les observations de l’Univers lointain peuvent nous fournir des indices. En effet, lorsque nous observons des quasars distants, nous les voyons tels qu’ils existaient dans le passé, dans les premiers instants de l’Univers. Puisque l’Univers est en expansion, la densité était beaucoup plus grande à cette époque reculée qu’elle ne l’est maintenant. Nous pouvons donc supposer que la formation des galaxies a été influencée par cet environnement compact. Les effets d’interaction gravitationnelle et les collisions entre les galaxies naissantes ont dû jouer un rôle important. Le fait que les objets les plus énergétiques sont les plus distants (quasars, radiogalaxies, galaxies de type Seyfert), alors que les galaxies proches de la Voie lactée sont moins violentes (galaxies normales), reflète probablement la transition entre les conditions extrêmes de la densité existant peu après le Big Bang vers les conditions de faible densité actuelles. ",
+    "url": "http://localhost:4000/pages/Module5/Module5p2/#52-lorigine-et-l%C3%A9volution-des-galaxies",
+    "relUrl": "/pages/Module5/Module5p2/#52-lorigine-et-lévolution-des-galaxies"
+  },"90": {
+    "doc": "5.2 L'origine et l'évolution des galaxies",
+    "title": "5.2.1 La formation d’une galaxie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p2/#521-la-formation-dune-galaxie",
+    "relUrl": "/pages/Module5/Module5p2/#521-la-formation-dune-galaxie"
+  },"91": {
+    "doc": "5.2 L'origine et l'évolution des galaxies",
+    "title": "5.2.2 L’évolution des galaxies actives",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p2/#522-l%C3%A9volution-des-galaxies-actives",
+    "relUrl": "/pages/Module5/Module5p2/#522-lévolution-des-galaxies-actives"
+  },"92": {
+    "doc": "5.2 L'origine et l'évolution des galaxies",
+    "title": "5.2.3 L’évolution des galaxies normales",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p2/#523-l%C3%A9volution-des-galaxies-normales",
+    "relUrl": "/pages/Module5/Module5p2/#523-lévolution-des-galaxies-normales"
+  },"93": {
+    "doc": "5.2 L'origine et l'évolution des galaxies",
+    "title": "5.2 L'origine et l'évolution des galaxies",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p2/",
+    "relUrl": "/pages/Module5/Module5p2/"
+  },"94": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3 La vie des étoiles",
+    "content": ". | 5.3.1 La naissance des étoiles | 5.3.2 La séquence principale | 5.3.3 La transformation en géante rouge | 5.3.4 La branche horizontale | 5.3.5 La fin de l’évolution stellaire | 5.3.6 Les cadavres stellaires | 5.3.7 Les étoiles variables | 5.3.8 L’évolution dans le diagramme HR | . Nous avons vu au module 4 que la luminosité des étoiles provient principalement des réactions nucléaires au centre de celles-ci. Ces réactions de fusion provoquent un changement irréversible de la composition chimique interne des étoiles et, conséquemment, les étoiles évoluent. Cela est particulièrement vrai lorsqu’une étoile a épuisé son carburant nucléaire (par exemple l’hydrogène); sa structure doit alors se réajuster à cette nouvelle condition. En général, les temps d’évolution stellaire sont très longs comparés à la durée de vie humaine, de sorte qu’il est, de façon générale, impossible de suivre individuellement l’évolution d’une étoile en particulier. Par contre, on dispose d’un très grand nombre d’étoiles et on peut ainsi étudier leur évolution de façon statistique comme le ferait un démographe avec un échantillon de la population d’un pays. Nous en avons d’ailleurs donné un aperçu lorsque nous avons abordé les diagrammes HR d’étoiles (voir la section 4.2.2. Le diagramme HR). Les étoiles du firmament forment donc une véritable population où on retrouve des étoiles naissantes, certaines comme le Soleil qui sont d’âge adulte et finalement d’autres qui meurent. On admet aujourd’hui que les différentes classes de luminosité (super géantes, géantes, séquence principale, naines blanches) correspondent à des phases évolutives différentes de la vie stellaire. L’interprétation physique du diagramme HR est qu’il représente la distribution de la population stellaire en fonction de l’âge et de la masse des étoiles. De plus, la concentration d’étoiles dans certaines parties du diagramme HR est une mesure du temps passé dans cette phase évolutive. Les prochaines sections décrivent en détail les différentes phases de l’évolution stellaire et leur relation avec le diagramme HR. ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/",
+    "relUrl": "/pages/Module5/Module5p3/"
+  },"95": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.1 La naissance des étoiles",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#531-la-naissance-des-%C3%A9toiles",
+    "relUrl": "/pages/Module5/Module5p3/#531-la-naissance-des-étoiles"
+  },"96": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.2 La séquence principale",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#532-la-s%C3%A9quence-principale",
+    "relUrl": "/pages/Module5/Module5p3/#532-la-séquence-principale"
+  },"97": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.3 La transformation en géante rouge",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#533-la-transformation-en-g%C3%A9ante-rouge",
+    "relUrl": "/pages/Module5/Module5p3/#533-la-transformation-en-géante-rouge"
+  },"98": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.4 La branche horizontale",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#534-la-branche-horizontale",
+    "relUrl": "/pages/Module5/Module5p3/#534-la-branche-horizontale"
+  },"99": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.5 La fin de l’évolution stellaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#535-la-fin-de-l%C3%A9volution-stellaire",
+    "relUrl": "/pages/Module5/Module5p3/#535-la-fin-de-lévolution-stellaire"
+  },"100": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.6 Les cadavres stellaires",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#536-les-cadavres-stellaires",
+    "relUrl": "/pages/Module5/Module5p3/#536-les-cadavres-stellaires"
+  },"101": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.7 Les étoiles variables",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#537-les-%C3%A9toiles-variables",
+    "relUrl": "/pages/Module5/Module5p3/#537-les-étoiles-variables"
+  },"102": {
+    "doc": "5.3 La vie des étoiles",
+    "title": "5.3.8 L’évolution dans le diagramme HR",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p3/#538-l%C3%A9volution-dans-le-diagramme-hr",
+    "relUrl": "/pages/Module5/Module5p3/#538-lévolution-dans-le-diagramme-hr"
+  },"103": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4 L’origine et l’évolution d’un système planétaire",
+    "content": ". | 5.4.1 L’origine d’un système planétaire | 5.4.2 L’origine des planètes rocheuses | 5.4.3 L’origine des planètes gazeuses | 5.4.4 Les phases finales de la formation d’un système planétaire | 5.4.5 Le rôle des impacts dans l’évolution d’un système planétaire | 5.4.6 La migration des planètes | . La prochaine section décrit la formation de planètes et d’autres corps au voisinage d’une étoile. Notre système solaire est un bon exemple puisqu’il présente un bel étalage de structures : planètes rocheuses, planètes gazeuses géantes, planètes naines, astéroïdes, comètes et débris poussiéreux. Une foule de phénomènes astronomiques, physiques, chimiques et géologiques s’y produisent. Cependant, aussi paradoxal que cela puisse paraître, l’origine et l’évolution des systèmes planétaires sont encore mal connues. Ainsi, on connaît beaucoup mieux le centre du Soleil que le centre de la Terre et l’on connaît beaucoup mieux l’évolution des étoiles que celle de notre système solaire. Depuis des décennies, les astronomes ont observé et analysé la lumière en provenance de milliers d’étoiles différentes. À l’opposé, jusqu’à tout récemment, l’étude de la formation et de l’évolution des planètes dans un système solaire s’est limitée à un échantillon très restreint, le nôtre! C’est de là que vient toute la difficulté. Par analogie, le botaniste qui ne posséderait qu’un seul échantillon d’arbre serait bien ennuyé pour en étudier l’évolution. ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#54-lorigine-et-l%C3%A9volution-dun-syst%C3%A8me-plan%C3%A9taire",
+    "relUrl": "/pages/Module5/Module5p4/#54-lorigine-et-lévolution-dun-système-planétaire"
+  },"104": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.1 L’origine d’un système planétaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#541-lorigine-dun-syst%C3%A8me-plan%C3%A9taire",
+    "relUrl": "/pages/Module5/Module5p4/#541-lorigine-dun-système-planétaire"
+  },"105": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.2 L’origine des planètes rocheuses",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#542-lorigine-des-plan%C3%A8tes-rocheuses",
+    "relUrl": "/pages/Module5/Module5p4/#542-lorigine-des-planètes-rocheuses"
+  },"106": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.3 L’origine des planètes gazeuses",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#543-lorigine-des-plan%C3%A8tes-gazeuses",
+    "relUrl": "/pages/Module5/Module5p4/#543-lorigine-des-planètes-gazeuses"
+  },"107": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.4 Les phases finales de la formation d’un système planétaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#544-les-phases-finales-de-la-formation-dun-syst%C3%A8me-plan%C3%A9taire",
+    "relUrl": "/pages/Module5/Module5p4/#544-les-phases-finales-de-la-formation-dun-système-planétaire"
+  },"108": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.5 Le rôle des impacts dans l’évolution d’un système planétaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#545-le-r%C3%B4le-des-impacts-dans-l%C3%A9volution-dun-syst%C3%A8me-plan%C3%A9taire",
+    "relUrl": "/pages/Module5/Module5p4/#545-le-rôle-des-impacts-dans-lévolution-dun-système-planétaire"
+  },"109": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4.6 La migration des planètes",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/#546-la-migration-des-plan%C3%A8tes",
+    "relUrl": "/pages/Module5/Module5p4/#546-la-migration-des-planètes"
+  },"110": {
+    "doc": "5.4 L'origine et l'évolution d'un système planétaire",
+    "title": "5.4 L'origine et l'évolution d'un système planétaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module5/Module5p4/",
+    "relUrl": "/pages/Module5/Module5p4/"
+  },"111": {
     "doc": "Module 6",
     "title": "Module 6",
     "content": "Module 6 . ",
     "url": "http://localhost:4000/pages/Module6/",
     "relUrl": "/pages/Module6/"
-  },"13": {
+  },"112": {
+    "doc": "6.1 L'astrobiologie",
+    "title": "6.1 L’astrobiologie",
+    "content": ". Les développements techniques des dernières décennies nous permettent désormais de considérer la question de la vie extraterrestre non plus du seul point de vue philosophique, mais aussi sous son aspect scientifique. C’est ainsi que l’astrobiologie, toute nouvelle science faisant appel à une combinaison de disciplines scientifiques très variées telles l’astronomie, la chimie, la biologie, et la sociologie, s’est développée au cours des cinquante dernières années. Fondamental : . L’objectif de l’astrobiologie est d’étudier l’origine, la distribution, l’évolution et le destin de la vie dans l’Univers. Dans la littérature, on utilise parfois les mots bioastronomie ou exobiologie plutôt qu’astrobiologie. Les termes « astrobiologie » et « bioastronomie » sont des constructions du langage qui combinent deux domaines de recherche, l’astronomie et la biologie, pour en définir un nouveau. Ils permettent donc de décrire la science qui s’intéresse à l’étude des phénomènes biologiques dans un contexte astronomique. Les astronomes mettent l’accent sur les aspects astronomiques de cette nouvelle science, tandis que les biologistes portent une grande attention aux divers aspects du vivant (biologique, chimique, biochimique) en fonction des conditions particulières du cosmos. De son côté, d’un point de vue étymologique, l’exobiologie signifie « science qui s’intéresse à l’étude de la vie extraterrestre ». En général, les trois termes sont utilisés de manière équivalente, mais les termes astrobiologie et bioastronomie sont plus inclusifs puisqu’ils considèrent la Terre en tant qu’objet astronomique, ce qui, par définition, n’est pas le cas de l’exobiologie. D’une certaine façon, on peut donc dire que l’exobiologie est une « science sans sujet » puisque, jusqu’à présent, aucune forme de vie n’a été découverte à l’extérieur de la Terre! D’un point de vue culturel, les Nord-Américains utilisent surtout les termes astrobiologie ou bioastronomie, tandis que les Européens préfèrent le terme exobiologie (même s’ils incluent notre planète dans leurs travaux). Au cours des prochaines sections, nous allons tenter de cerner les paramètres importants du problème de la vie extraterrestre et d’établir les meilleures stratégies pour le résoudre. ",
+    "url": "http://localhost:4000/pages/Module6/Module6p1/#61-lastrobiologie",
+    "relUrl": "/pages/Module6/Module6p1/#61-lastrobiologie"
+  },"113": {
+    "doc": "6.1 L'astrobiologie",
+    "title": "6.1 L'astrobiologie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p1/",
+    "relUrl": "/pages/Module6/Module6p1/"
+  },"114": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10 La recherche de vie extraterrestre intelligente",
+    "content": ". | 6.10.1 Intelligence terrestre et extraterrestre | 6.10.2 Comment communiquer | 6.10.3 L’équation de Drake | 6.10.4 Le paradoxe de Fermi | 6.10.5 La Terre est-elle une exception? | . Depuis Galilée, la science moderne n’a cessé de « provincialiser » notre place dans l’Univers : notre planète n’est plus au centre du monde, elle n’est qu’une des huit planètes du système solaire; le Soleil n’est qu’une étoile banale située à la périphérie de notre Galaxie; quant à la Voie lactée, elle n’est à son tour qu’une galaxie banale, parmi les milliards d’autres de l’univers observable. Ces découvertes astronomiques ont progressivement remplacé la perception anthropocentrique initiale par une confiance quasi illimitée dans le principe copernicien : notre position spatio-temporelle n’a rien d’exceptionnel. C’est ce que nous avons appelé le « principe de médiocrité ». La situation paraît moins claire quand nous essayons de nous situer en tant qu’êtres vivants doués d’intelligence et ayant développé une civilisation technologique. Depuis près d’un siècle maintenant, nous savons que notre espèce est apparue tard sur la scène cosmique, après un long processus évolutif, commun à toutes les autres espèces. Cependant, nous comprenons encore très mal le début de ce processus, de l’origine de la vie sur Terre à son aboutissement, l’origine de l’intelligence. D’ailleurs, les recherches des dernières années ont révélé le rôle important joué par une série de facteurs aléatoires. Parmi ceux-ci, mentionnons : . la présence de Jupiter, qui a éjecté vers l'extérieur du système solaire bon nombre d'astéroïdes menaçants, surtout ceux en provenance du nuage de Oort aux confins du système solaire, diminuant ainsi le nombre des extinctions de masse sur notre planète; la présence de la Lune, qui a stabilisé l'axe de rotation et le climat de notre planète; la collision avec un astéroïde d'une dizaine de kilomètres de diamètre qui a provoqué la disparition des dinosaures, permettant ainsi aux mammifères de « s'émanciper ». Jusqu’à présent, l’observation astronomique ne nous a rien apporté sur les formes de vie qui pourraient peupler l’Univers. Les sondes spatiales qui ont parcouru le système solaire n’ont signalé aucune forme de vie dans notre voisinage proche. L’exobiologie n’est pas encore parvenue à justifier son étymologie, pas plus qu’une hypothétique science d’« exosociologie ». Si la prochaine génération de grands télescopes, tant sur Terre que dans l’espace, nous révélait l’existence d’une forme de vie sur l’une des planètes extrasolaires, il est à parier qu’il s’agirait d’une forme de vie microscopique, comme celle qui a régné sur notre planète pendant la majeure partie de son histoire. Cependant, qu’en serait-il de formes de vie intelligente, voire de civilisations technologiquement avancées? . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/",
+    "relUrl": "/pages/Module6/Module6p10/"
+  },"115": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10.1 Intelligence terrestre et extraterrestre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/#6101-intelligence-terrestre-et-extraterrestre",
+    "relUrl": "/pages/Module6/Module6p10/#6101-intelligence-terrestre-et-extraterrestre"
+  },"116": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10.2 Comment communiquer",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/#6102-comment-communiquer",
+    "relUrl": "/pages/Module6/Module6p10/#6102-comment-communiquer"
+  },"117": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10.3 L’équation de Drake",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/#6103-l%C3%A9quation-de-drake",
+    "relUrl": "/pages/Module6/Module6p10/#6103-léquation-de-drake"
+  },"118": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10.4 Le paradoxe de Fermi",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/#6104-le-paradoxe-de-fermi",
+    "relUrl": "/pages/Module6/Module6p10/#6104-le-paradoxe-de-fermi"
+  },"119": {
+    "doc": "6.10 La recherche de vie extraterrestre intelligente",
+    "title": "6.10.5 La Terre est-elle une exception?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p10/#6105-la-terre-est-elle-une-exception",
+    "relUrl": "/pages/Module6/Module6p10/#6105-la-terre-est-elle-une-exception"
+  },"120": {
+    "doc": "6.2 Qu'est-ce que la vie ?",
+    "title": "6.2 Qu’est-ce que la vie ?",
+    "content": ". ",
+    "url": "http://localhost:4000/pages/Module6/Module6p2/#62-quest-ce-que-la-vie-",
+    "relUrl": "/pages/Module6/Module6p2/#62-quest-ce-que-la-vie-"
+  },"121": {
+    "doc": "6.2 Qu'est-ce que la vie ?",
+    "title": "6.2 Qu'est-ce que la vie ?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p2/",
+    "relUrl": "/pages/Module6/Module6p2/"
+  },"122": {
+    "doc": "6.3 La Terre comme modèle de la vie dans l'Univers",
+    "title": "6.3 La Terre comme modèle de la vie dans l’Univers",
+    "content": ". | 6.3.1 Les ingrédients de la vie sur Terre | 6.3.2 Le rôle de l’eau dans l’émergence de la vie | . Jusqu’à maintenant, la Terre est le seul endroit de l’Univers où nous savons que la vie existe. Nous n’avons pas encore découvert une « deuxième genèse » ailleurs dans le cosmos. Ainsi, parce qu’il est impossible de comparer avec d’autres environnements qui ont permis le développement de formes de vie (même simples), il est extrêmement difficile de déterminer les conditions nécessaires à la transformation de la matière inerte en matière vivante. À cause des difficultés à définir précisément ce qu’est la vie (voir la section précédente), il est plus facile de s’inspirer de ce que l’on connaît bien pour concevoir des expériences visant à découvrir la vie ailleurs que sur la Terre. À titre d’exemple, les recherches in situ de vie sur la planète Mars (p. ex. les missions Viking) visent à détecter des réactions biochimiques semblables à celles produites par les microorganismes terrestres. On tente donc de détecter des formes de vie martienne dont la chimie, la biochimie et la biologie s’apparentent à celles que l’on retrouve sur Terre. En ce qui concerne les recherches de vie extraterrestre à l’extérieur du système solaire, encore ici, on cherche des environnements semblables à celui de la Terre. Il s’agit donc de découvrir des planètes de masse, taille et distance semblables à notre planète en orbite quasi circulaire autour d’une étoile comparable à notre Soleil. Cette approche est celle décrite par le « principe de médiocrité » (voir ci-dessous). Outre la découverte de planètes semblables à la Terre, l’existence de la vie elle-même sur notre planète soulève de nombreuses questions : . La vie dépend-elle d'une caractéristique unique ou est-elle le résultat d'une combinaison de traits communs? L'émergence de la vie est-elle le résultat d'une suite d'événements probables ou de circonstances très spéciales? La vie est-elle une nécessité physique? Est-il possible de formuler un modèle de l'origine de la vie sur Terre qui puisse s'appliquer dans un contexte extraterrestre? . Les réponses à ces questions ne sont pas faciles à trouver. À défaut d’avoir déjà découvert de la vie extraterrestre, la recherche des origines de la vie et de formes (complexes) de vie à l’extérieur de la Terre s’appuie donc sur quelques principes (postulats?) généraux : . Le principe de médiocrité : l'évolution (biologique, culturelle et technologique) du vivant sur la Terre ainsi que l'environnement dans lequel cette vie est apparue (la Terre et le système solaire) n'ont rien d'exceptionnel. Le principe d'uniformité : les lois de la physique sont les mêmes partout dans l'Univers. Le principe de plénitude : toute situation pouvant être réalisée sera réalisée. Le principe d’uniformité est bien établi, surtout grâce aux observations faites à l’aide des télescopes; les lois de la physique sont bel et bien les mêmes partout dans l’Univers, la composition chimique est partout la même en moyenne (on n’a pas découvert un nouvel élément exotique aux confins du cosmos), la répartition de la matière est remarquablement homogène à grande échelle, etc. Le principe de plénitude, dont la description semble plus philosophique que scientifique, peut être compris dans le cadre de l’expansion de l’Univers. À la lumière des connaissances actuelles, notre Univers est vieux (presque 14 milliards d’années) et le deviendra davantage puisque l’expansion sera probablement sans fin. Ainsi, même si l’émergence de la vie est un phénomène extrêmement rare, le temps joue en sa faveur. Jusqu’à tout récemment, le principe de médiocrité faisait consensus auprès de la majorité des astronomes. Cependant, depuis peu, l’hypothèse selon laquelle les conditions physico-chimiques de l’environnement terrestre, menant au développement des formes complexes de vie, sont banales est remise en question. Les difficultés à expliquer l’apparition et le développement de la diversité animale et végétale sur notre planète laissent croire que plusieurs éléments dus au hasard ont joué un rôle crucial. Si l’hypothèse de la « Terre unique (ou rare) » s’avère, alors le principe de médiocrité devra être abandonné, de même que l’idée d’utiliser la Terre comme modèle de vie dans l’Univers. ",
+    "url": "http://localhost:4000/pages/Module6/Module6p3/#63-la-terre-comme-mod%C3%A8le-de-la-vie-dans-lunivers",
+    "relUrl": "/pages/Module6/Module6p3/#63-la-terre-comme-modèle-de-la-vie-dans-lunivers"
+  },"123": {
+    "doc": "6.3 La Terre comme modèle de la vie dans l'Univers",
+    "title": "6.3.1 Les ingrédients de la vie sur Terre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p3/#631-les-ingr%C3%A9dients-de-la-vie-sur-terre",
+    "relUrl": "/pages/Module6/Module6p3/#631-les-ingrédients-de-la-vie-sur-terre"
+  },"124": {
+    "doc": "6.3 La Terre comme modèle de la vie dans l'Univers",
+    "title": "6.3.2 Le rôle de l’eau dans l’émergence de la vie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p3/#632-le-r%C3%B4le-de-leau-dans-l%C3%A9mergence-de-la-vie",
+    "relUrl": "/pages/Module6/Module6p3/#632-le-rôle-de-leau-dans-lémergence-de-la-vie"
+  },"125": {
+    "doc": "6.3 La Terre comme modèle de la vie dans l'Univers",
+    "title": "6.3 La Terre comme modèle de la vie dans l'Univers",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p3/",
+    "relUrl": "/pages/Module6/Module6p3/"
+  },"126": {
+    "doc": "6.4 L'origine de la vie sur Terre",
+    "title": "6.4 L’origine de la vie sur Terre",
+    "content": ". | 6.4.1 La panspermie | 6.4.2 La chimie prébiotique | . intro . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p4/#64-lorigine-de-la-vie-sur-terre",
+    "relUrl": "/pages/Module6/Module6p4/#64-lorigine-de-la-vie-sur-terre"
+  },"127": {
+    "doc": "6.4 L'origine de la vie sur Terre",
+    "title": "6.4.1 La panspermie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p4/#641-la-panspermie",
+    "relUrl": "/pages/Module6/Module6p4/#641-la-panspermie"
+  },"128": {
+    "doc": "6.4 L'origine de la vie sur Terre",
+    "title": "6.4.2 La chimie prébiotique",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p4/#642-la-chimie-pr%C3%A9biotique",
+    "relUrl": "/pages/Module6/Module6p4/#642-la-chimie-prébiotique"
+  },"129": {
+    "doc": "6.4 L'origine de la vie sur Terre",
+    "title": "6.4 L'origine de la vie sur Terre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p4/",
+    "relUrl": "/pages/Module6/Module6p4/"
+  },"130": {
+    "doc": "6.5 L'évolution de la vie sur Terre",
+    "title": "6.5 L’évolution de la vie sur Terre",
+    "content": ". | 6.5.1 L’apparition de la vie | 6.5.2 Les extrêmophiles | . intro . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p5/#65-l%C3%A9volution-de-la-vie-sur-terre",
+    "relUrl": "/pages/Module6/Module6p5/#65-lévolution-de-la-vie-sur-terre"
+  },"131": {
+    "doc": "6.5 L'évolution de la vie sur Terre",
+    "title": "6.5.1 L’apparition de la vie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p5/#651-lapparition-de-la-vie",
+    "relUrl": "/pages/Module6/Module6p5/#651-lapparition-de-la-vie"
+  },"132": {
+    "doc": "6.5 L'évolution de la vie sur Terre",
+    "title": "6.5.2 Les extrêmophiles",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p5/#652-les-extr%C3%AAmophiles",
+    "relUrl": "/pages/Module6/Module6p5/#652-les-extrêmophiles"
+  },"133": {
+    "doc": "6.5 L'évolution de la vie sur Terre",
+    "title": "6.5 L'évolution de la vie sur Terre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p5/",
+    "relUrl": "/pages/Module6/Module6p5/"
+  },"134": {
+    "doc": "6.6 Les leçons de l'évolution de la vie sur Terre",
+    "title": "6.6 Les leçons de l’évolution de la vie sur Terre",
+    "content": ". Plusieurs questions à propos de l’origine et de l’évolution de la vie sur notre planète demeurent sans réponse. Cependant, nous pouvons malgré tout tirer quelques leçons de l’histoire de la vie terrestre et dresser une liste (partielle) des ingrédients qui lui sont nécessaires. Cette liste nous servira de guide dans la quête de la vie extraterrestre. | La vie apparaît dans un milieu liquide, probablement de l’eau puisque cette molécule est formée de deux des espèces atomiques les plus abondantes dans l’Univers. La planète mère doit donc être assez massive pour retenir les gaz nécessaires à la formation des océans et être située à la bonne distance de son étoile. | La vie est orchestrée autour d’une molécule complexe, l’ADN. Cette molécule est construite à partir des éléments chimiques les plus abondants dans l’Univers : l’hydrogène, le carbone, l’azote et l’oxygène. Elle est d’une grande stabilité, ce qui lui permet de transmettre d’une génération à l’autre les caractéristiques importantes d’une espèce vivante. Cette transmission n’est cependant pas parfaite, ce qui donne la possibilité de mutation et d’adaptation à un environnement qui se modifie. | La vie semble apparaître rapidement, à peine quelques centaines de millions d’années après la formation d’une planète. Elle a tendance à demeurer simple et de petite taille. | En moyenne, les organismes changent peu au cours du temps. Les changements environnementaux accélèrent leur évolution. La complexité semble inévitable, mais demeure l’exception plutôt que la règle. Les environnements hétérogènes favorisent la biodiversité. Les organismes individuels sont fragiles, mais, dans l’ensemble, la vie est robuste. | Le délai caractéristique avant l’émergence d’une forme d’intelligence sur une planète est d’environ 3 à 6 milliards d’années. Il faut donc que l’étoile parente, autour de laquelle orbite la planète, soit peu massive afin que sa vie sur la séquence principale soit assez longue (voir le module 5). Les étoiles de type spectral semblable à celui de notre Soleil (G) sont donc de bonnes candidates. | . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p6/#66-les-le%C3%A7ons-de-l%C3%A9volution-de-la-vie-sur-terre",
+    "relUrl": "/pages/Module6/Module6p6/#66-les-leçons-de-lévolution-de-la-vie-sur-terre"
+  },"135": {
+    "doc": "6.6 Les leçons de l'évolution de la vie sur Terre",
+    "title": "6.6 Les leçons de l'évolution de la vie sur Terre",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p6/",
+    "relUrl": "/pages/Module6/Module6p6/"
+  },"136": {
+    "doc": "6.7 La distribution de la vie dans l'Univers",
+    "title": "6.7 La distribution de la vie dans l’Univers",
+    "content": ". | 6.7.1 Les zones habitables | 6.7.2 Écosphère stellaire | 6.7.3 La zone habitable élargie : la vie dans les mondes glacés | . Comme nous l’avons mentionné à plusieurs reprises déjà, à notre connaissance, la Terre est la seule planète sur laquelle la vie est apparue et a évolué. Notre planète est-elle un cas unique dans le système solaire, dans l’Univers? Si la vie est le produit de processus physico-chimiques reproductibles, il est probable que la vie ait pu naître et croître partout où des conditions adéquates se sont développées et maintenues. Ces mondes existent-ils dans le système solaire ou ailleurs dans l’Univers? Où faut-il chercher? Autour de quelles étoiles et à quelle distance? . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p7/#67-la-distribution-de-la-vie-dans-lunivers",
+    "relUrl": "/pages/Module6/Module6p7/#67-la-distribution-de-la-vie-dans-lunivers"
+  },"137": {
+    "doc": "6.7 La distribution de la vie dans l'Univers",
+    "title": "6.7.1 Les zones habitables",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p7/#671-les-zones-habitables",
+    "relUrl": "/pages/Module6/Module6p7/#671-les-zones-habitables"
+  },"138": {
+    "doc": "6.7 La distribution de la vie dans l'Univers",
+    "title": "6.7.2 Écosphère stellaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p7/#672-%C3%A9cosph%C3%A8re-stellaire",
+    "relUrl": "/pages/Module6/Module6p7/#672-écosphère-stellaire"
+  },"139": {
+    "doc": "6.7 La distribution de la vie dans l'Univers",
+    "title": "6.7.3 La zone habitable élargie : la vie dans les mondes glacés",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p7/#673-la-zone-habitable-%C3%A9largie--la-vie-dans-les-mondes-glac%C3%A9s",
+    "relUrl": "/pages/Module6/Module6p7/#673-la-zone-habitable-élargie--la-vie-dans-les-mondes-glacés"
+  },"140": {
+    "doc": "6.7 La distribution de la vie dans l'Univers",
+    "title": "6.7 La distribution de la vie dans l'Univers",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p7/",
+    "relUrl": "/pages/Module6/Module6p7/"
+  },"141": {
+    "doc": "6.8 La vie dans le système solaire",
+    "title": "6.8 La vie dans le système solaire",
+    "content": ". | 6.8.1 La planète Mars | 6.8.2 L’océan d’Europe | 6.8.3 Titan, copie de la Terre primitive? | 6.8.4 Ailleurs dans le système solaire | . intro . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p8/",
+    "relUrl": "/pages/Module6/Module6p8/"
+  },"142": {
+    "doc": "6.8 La vie dans le système solaire",
+    "title": "6.8.1 La planète Mars",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p8/#681-la-plan%C3%A8te-mars",
+    "relUrl": "/pages/Module6/Module6p8/#681-la-planète-mars"
+  },"143": {
+    "doc": "6.8 La vie dans le système solaire",
+    "title": "6.8.2 L’océan d’Europe",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p8/#682-loc%C3%A9an-deurope",
+    "relUrl": "/pages/Module6/Module6p8/#682-locéan-deurope"
+  },"144": {
+    "doc": "6.8 La vie dans le système solaire",
+    "title": "6.8.3 Titan, copie de la Terre primitive?",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p8/#683-titan-copie-de-la-terre-primitive",
+    "relUrl": "/pages/Module6/Module6p8/#683-titan-copie-de-la-terre-primitive"
+  },"145": {
+    "doc": "6.8 La vie dans le système solaire",
+    "title": "6.8.4 Ailleurs dans le système solaire",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p8/#684-ailleurs-dans-le-syst%C3%A8me-solaire",
+    "relUrl": "/pages/Module6/Module6p8/#684-ailleurs-dans-le-système-solaire"
+  },"146": {
+    "doc": "6.9 La vie ailleurs dans l'Univers",
+    "title": "6.9 La vie ailleurs dans l’Univers",
+    "content": ". | 6.9.1 Les signatures de la vie | 6.9.2 La détection des bio-signatures des exoplanètes | . Comme nous l’avons répété à plusieurs reprises, jusqu’à maintenant, la Terre est le seul endroit de l’Univers où nous savons que la vie existe. Dans notre système solaire, les perspectives de découvrir la vie se limitent fort probablement à l’identification de formes microbiennes présentes ou passées. Est-il possible que les mécanismes ayant mené au développement d’une vie diversifiée, d’organismes multicellulaires, de gros animaux et même ultimement de l’intelligence aient pu se répéter ailleurs que sur la Terre? Comment détecter les mondes où des conditions propices ont permis l’apparition et l’évolution de la vie? . ",
+    "url": "http://localhost:4000/pages/Module6/Module6p9/#69-la-vie-ailleurs-dans-lunivers",
+    "relUrl": "/pages/Module6/Module6p9/#69-la-vie-ailleurs-dans-lunivers"
+  },"147": {
+    "doc": "6.9 La vie ailleurs dans l'Univers",
+    "title": "6.9.1 Les signatures de la vie",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p9/#691-les-signatures-de-la-vie",
+    "relUrl": "/pages/Module6/Module6p9/#691-les-signatures-de-la-vie"
+  },"148": {
+    "doc": "6.9 La vie ailleurs dans l'Univers",
+    "title": "6.9.2 La détection des bio-signatures des exoplanètes",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p9/#692-la-d%C3%A9tection-des-bio-signatures-des-exoplan%C3%A8tes",
+    "relUrl": "/pages/Module6/Module6p9/#692-la-détection-des-bio-signatures-des-exoplanètes"
+  },"149": {
+    "doc": "6.9 La vie ailleurs dans l'Univers",
+    "title": "6.9 La vie ailleurs dans l'Univers",
+    "content": " ",
+    "url": "http://localhost:4000/pages/Module6/Module6p9/",
+    "relUrl": "/pages/Module6/Module6p9/"
+  },"150": {
     "doc": "À propos",
     "title": "About page",
     "content": "This page tells you a little bit about me. ",
     "url": "http://localhost:4000/pages/about/#about-page",
     "relUrl": "/pages/about/#about-page"
-  },"14": {
+  },"151": {
     "doc": "À propos",
     "title": "À propos",
     "content": " ",
     "url": "http://localhost:4000/pages/about/",
     "relUrl": "/pages/about/"
-  },"15": {
+  },"152": {
     "doc": "Accueil",
     "title": "  PHY1972 : Comprendre l'Univers ",
-    "content": "Vous êtes sur le point d'entreprendre un grand périple qui vous fera visiter notre Système solaire jusqu'aux confins de l'espace, du début des temps jusqu'à des milliards d'années dans le futur. L'objectif de ce cours d'introduction à l'astronomie est de vous initier aux merveilles de notre Univers. Vous découvrirez des endroits et des phénomènes fascinants qui stimuleront votre curiosité. Peut-être aurez-vous le désir d'en apprendre davantage en consultant d'autres ouvrages ou en observant le ciel à l'aide de jumelles ou d'un petit télescope? . ",
+    "content": "Vous êtes sur le point d'entreprendre un grand périple qui vous fera visiter notre Système solaire jusqu'aux confins de l'espace, du début des temps jusqu'à des milliards d'années dans le futur. L'objectif de ce cours d'introduction à l'astronomie est de vous initier aux merveilles de notre Univers. Vous découvrirez des endroits et des phénomènes fascinants qui stimuleront votre curiosité. Peut-être que, grâce à ce cours, vous aurez le désir d'en apprendre davantage sur l'astronomie en consultant divers ouvrages ou en observant le ciel à l'aide de jumelles ou d'un petit télescope? . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"16": {
+  },"153": {
     "doc": "Accueil",
     "title": " Contenu ",
     "content": "Ce cours comprend 6 modules dont l'étude est répartie au cours de la session. | Module 1 : Physique et temps. | Module 2 : Voir l'Univers visible et invisible. | Module 3 : Mesurer l'Univers. | Module 4 : Un zoo astronomique. | Module 5 : Évolutions. | Module 6 : Sommes-nous seuls dans l'Univers? | . Pour en savoir plus sur les évaluations et le plan de cours, veuillez consulter la page Studium du cours. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"17": {
+  },"154": {
     "doc": "Accueil",
     "title": "Accueil",
-    "content": " ",
+    "content": "body { counter-reset: figures; counter-reset: tables; } figure { figcaption::before { counter-increment: figures; content: \"Figure \" counter(figures) \": \"; } } table { caption::before { counter-increment: tables; content: \"Table \" counter(tables) \": \"; } } ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"18": {
+  },"155": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": "L’astronomie est une science vaste qui couvre l’infiniment petit à l’infiniment grand. Comprendre l’Univers en entier est un but ambitieux pour un cours de quinze semaines! Ce cours tracera un portrait général de notre Univers, et nous verrons qu’il recèle encore de bien des mystères. Aucune connaissance préalable de physique, d’astronomie ou de mathématique n’est exigée pour ce cours. Cependant, puisque l’astronomie invoque parfois l’utilisation de nombre astronomiquement grand, nous ferons souvent usage de la notation scientifique. ",
+    "content": "L’astronomie est une science vaste qui couvre l’infiniment petit à l’infiniment grand. Comprendre l’Univers en entier est un but ambitieux pour un cours de quinze semaines! Ce cours tracera un portrait général de notre Univers, et nous verrons qu’il recèle encore de bien des mystères. ",
     "url": "http://localhost:4000/pages/intro/",
     "relUrl": "/pages/intro/"
-  },"19": {
+  },"156": {
     "doc": "Introduction",
     "title": "Astronomie et astrophysique",
-    "content": "Dans un premier temps, nous allons commencer notre étude en définissant ce que sont l’astronomie et l’astrophysique et, de façon plus générale, ce qu’est une science. Si on se réfère aux croyances populaires ainsi qu’aux médias d’information, on constate qu’il existe encore une certaine confusion quant à la signification de ces termes. Ainsi, l’astronomie est très souvent confondue avec la pseudo-science, ou la croyance, de l’astrologie. Pourtant, les astronomes, comme n’importe qui d’ailleurs, ne peuvent lire le futur! . En fait, l’acquisition des connaissances scientifiques repose sur l’observation des phénomènes naturels. À partir des observations de plusieurs événements, parfois dans des contextes différents, les scientifiques tentent de trouver des explications simples et générales qui décrivent les processus fondamentaux à l’œuvre. Ils tentent donc de suivre le principe de parcimonie, qui indique que les hypothèses suffisantes les plus simples doivent être préférées. Par la suite, ils expérimentent à nouveau afin de s’assurer que leurs hypothèses correspondent à une description correcte de la nature dans une ou plusieurs situations données. Une vérité scientifique est toujours jugée à l’aune de l’expérimentation. C’est par le biais d’expériences contrôlées, au cours desquelles on modifie un seul paramètre à la fois, que l’on détermine la cause de l’effet observé. Les expériences peuvent être répétées par quiconque, aussi souvent que désiré afin de s’assurer de la reproductibilité du ou des effets observés. On peut donc résumer en affirmant qu’une science est un ensemble cohérent de connaissances acquises par la méthode scientifique. Cette méthode est basée sur : . | l’observation de phénomènes ou de résultats d’expériences | la formulation d’hypothèses qui décrivent ces phénomènes et qui sont en accord avec l’ensemble des connaissances établies | le test de ces hypothèses pour vérifier si elles prédisent et décrivent correctement de nouveaux phénomènes ou les résultats de nouvelles expériences | . Dans ce contexte, on peut définir ce que sont l’astronomie et l’astrophysique. De façon formelle, l’astronomie se définit comme l’étude scientifique des corps célestes, de leurs mouvements et de leur évolution. Il s’agit d’une science basée principalement sur l’observation. Elle se distingue des sciences expérimentales comme la physique, la chimie, ou la biologie en ce sens qu’on ne peut pas faire d’expériences contrôlées avec les corps célestes, on ne peut que recevoir l’information qu’ils nous envoient. Par contraste, dans un laboratoire de physique ou de chimie, on peut modifier à volonté les paramètres d’une expérience. L’interprétation des observations astronomiques en est d’autant plus compliquée puisque c’est la Nature qui décide du moment et des conditions de l’expérience! . Bien que les astronomes ne peuvent pas faire d’expériences contrôlées au sens strict du terme, et qu’ils sont confinés à observer l’Univers de (ou près de) la surface de la Terre, celui-ci nous offre la possibilité d’observer un vaste éventail de phénomènes différents. Plusieurs de ces phénomènes sont d’ailleurs impossibles à reproduire dans nos laboratoires. Ainsi, il arrive fréquemment que les prédictions de théories scientifiques, proposées dans d’autres domaines, ne puissent être soumises à des vérifications parce qu’elles requièrent des conditions physiques ou des circonstances extrêmes. Souvent même, ces conditions extrêmes sont nécessaires pour trancher entre plusieurs théories différentes. L’astronomie vient à la recousse, puisque dans le vaste laboratoire naturel que constitue l’Univers, les processus les plus subtils sont souvent amplifiés à des niveaux qui permettent leur observation par les télescopes. L’astrophysique est un sous-ensemble de l’astronomie. Il s’agit d’une science qui se préoccupe de l’interprétation des observations astronomiques à l’aide des lois de la physique. Cette science est basée sur l’hypothèse voulant que les lois physiques, découvertes et étudiées dans nos laboratoires soient les mêmes partout dans l’Univers. Cette hypothèse s’est rapidement transformée en postulat au fur et à mesure que les données observationnelles s’accumulaient en sa faveur. Aujourd’hui, nous sommes convaincus que les lois physiques connues sont effectivement universelles; on les vérifie tous les jours jusqu’aux confins de l’Univers exploré. Il est intéressant de souligner que pour interpréter des observations d’objets macroscopiques tels que les planètes, les étoiles, et même l’ensemble de l’Univers, il faut utiliser la physique qui nous renseigne principalement sur les propriétés des structures microscopiques. On peut aussi considérer l’astronomie comme une science pure (ou culturelle), par opposition à une science appliquée. Il est assez évident que des découvertes comme celles des quasars, des pulsars, ou des molécules interstellaires, aussi intéressantes et spectaculaires qu’elles soient, changent peu nos habitudes de vie. L’astronomie demeure surtout une science de l’esprit, ayant des retombées potentielles à longue échéance seulement. En fait, il est remarquable de noter que, dans l’histoire de l’humanité, ce sont les civilisations ayant dépassé le stade de survie qui se sont intéressées aux phénomènes célestes. Les préoccupations des civilisations plus primitives étaient de nature plus pratique : se nourrir, se loger, se vêtir, en somme survivre! . Finalement, un astronome ou un astrophysicien est une personne qui fait carrière en astronomie. C’est un métier relativement peu pratiqué : on en dénombre environ 40 000 dans le monde, dont près de 600 au Canada et 60 au Québec. Il faut toutefois souligner que le nombre d’astronomes-astrophysiciens, à l’œuvre depuis 50 ans, est supérieur au nombre total d’astronomes ayant vécu depuis l’Antiquité. L’astronome moderne travaille souvent dans des observatoires subventionnés par les gouvernements ou dans des universités comme chercheur ou professeur-chercheur . ",
+    "content": "Commençons par définir ce que sont l’astronomie et l’astrophysique. Selon le dictionnaire Larousse, l’astronomie est une science qui étudie les positions relatives, les mouvements, la structure et l’évolution des astres. Il convient ici de ne pas confondre l’astronomie avec la croyance, ou la pseudo-science, de l’astrologie. En effet, personnes ne peut prédire le futur, pas même les astronomes! . En fait, l’acquisition des connaissances scientifiques repose sur l’observation des phénomènes naturels. À partir des observations de plusieurs événements, parfois dans des contextes différents, les scientifiques tentent de trouver des explications simples et générales qui décrivent les processus fondamentaux à l’œuvre. Ils tentent donc de suivre le principe de parcimonie, qui indique que les hypothèses suffisantes les plus simples doivent être préférées. Par la suite, ils expérimentent à nouveau afin de s’assurer que leurs hypothèses correspondent à une description correcte de la nature dans une ou plusieurs situations données. Une vérité scientifique est toujours jugée à l’aune de l’expérimentation. C’est par le biais d’expériences contrôlées, au cours desquelles on modifie un seul paramètre à la fois, que l’on détermine la cause de l’effet observé. Les expériences peuvent être répétées par quiconque, aussi souvent que désiré afin de s’assurer de la reproductibilité du ou des effets observés. On peut donc résumer en affirmant qu’une science est un ensemble cohérent de connaissances acquises par la méthode scientifique. Cette méthode est basée sur : . | l’observation de phénomènes ou de résultats d’expériences | la formulation d’hypothèses qui décrivent ces phénomènes et qui sont en accord avec l’ensemble des connaissances établies | le test de ces hypothèses pour vérifier si elles prédisent et décrivent correctement de nouveaux phénomènes ou les résultats de nouvelles expériences | . Dans ce contexte, on peut définir ce que sont l’astronomie et l’astrophysique. De façon formelle, l’astronomie se définit comme l’étude scientifique des corps célestes, de leurs mouvements et de leur évolution. Il s’agit d’une science basée principalement sur l’observation. Elle se distingue des sciences expérimentales comme la physique, la chimie, ou la biologie en ce sens qu’on ne peut pas faire d’expériences contrôlées avec les corps célestes, on ne peut que recevoir l’information qu’ils nous envoient. Par contraste, dans un laboratoire de physique ou de chimie, on peut modifier à volonté les paramètres d’une expérience. L’interprétation des observations astronomiques en est d’autant plus compliquée puisque c’est la Nature qui décide du moment et des conditions de l’expérience! . Bien que les astronomes ne peuvent pas faire d’expériences contrôlées au sens strict du terme, et qu’ils sont confinés à observer l’Univers de (ou près de) la surface de la Terre, celui-ci nous offre la possibilité d’observer un vaste éventail de phénomènes différents. Plusieurs de ces phénomènes sont d’ailleurs impossibles à reproduire dans nos laboratoires. Ainsi, il arrive fréquemment que les prédictions de théories scientifiques, proposées dans d’autres domaines, ne puissent être soumises à des vérifications parce qu’elles requièrent des conditions physiques ou des circonstances extrêmes. Souvent même, ces conditions extrêmes sont nécessaires pour trancher entre plusieurs théories différentes. L’astronomie vient à la recousse, puisque dans le vaste laboratoire naturel que constitue l’Univers, les processus les plus subtils sont souvent amplifiés à des niveaux qui permettent leur observation par les télescopes. Selon le dictionnaire Larousse, l’astrophysique est une partie de l’astronomie qui étudie la nature physique, la formation et l’évolution des astres. Il s’agit donc d’une science qui se préoccupe de l’interprétation des observations astronomiques à l’aide des lois de la physique. Cette science est basée sur l’hypothèse voulant que les lois physiques, découvertes et étudiées dans nos laboratoires soient les mêmes partout dans l’Univers. Cette hypothèse s’est rapidement transformée en postulat au fur et à mesure que les données observationnelles s’accumulaient en sa faveur. Aujourd’hui, nous sommes convaincus que les lois physiques connues sont effectivement universelles; on les vérifie tous les jours jusqu’aux confins de l’Univers exploré. Il est intéressant de souligner que pour interpréter des observations d’objets macroscopiques tels que les planètes, les étoiles, et même l’ensemble de l’Univers, il faut utiliser la physique qui nous renseigne principalement sur les propriétés des structures microscopiques. On peut aussi considérer l’astronomie comme une science pure (ou culturelle), par opposition à une science appliquée. Il est assez évident que des découvertes comme celles des quasars, des pulsars, ou des molécules interstellaires, aussi intéressantes et spectaculaires qu’elles soient, changent peu nos habitudes de vie. L’astronomie demeure surtout une science de l’esprit, ayant des retombées potentielles à longue échéance seulement. En fait, il est remarquable de noter que, dans l’histoire de l’humanité, ce sont les civilisations ayant dépassé le stade de survie qui se sont intéressées aux phénomènes célestes. Les préoccupations des civilisations plus primitives étaient de nature plus pratique : se nourrir, se loger, se vêtir, en somme survivre! . Pour finir, une personne qui fait carrière en astronomie est une astronome ou une astrophysicienne. On trouve des astronomes dans les universités, dans les instituts de recherches, dans les observatoires astronomiques et dans certaines compagnies privées. Il s’agit d’un métier relativement peu pratiqué : on en dénombre environ 40 000 dans le monde, dont près de 600 au Canada et 70 au Québec. Mentionnons toutefois que le nombre d’astronomes-astrophysiciens à l’œuvre depuis 50 ans est supérieur au nombre total d’astronomes ayant vécu depuis l’Antiquité! . ",
     "url": "http://localhost:4000/pages/intro/#astronomie-et-astrophysique",
     "relUrl": "/pages/intro/#astronomie-et-astrophysique"
-  },"20": {
+  },"157": {
     "doc": "Avant de commencer",
     "title": "Avant de commencer",
     "content": "Aucune connaissance préalable de physique, d’astronomie ou de mathématique n’est exigée pour ce cours. Cependant, puisque l’astronomie invoque parfois l’utilisation de nombre astronomiquement grand, nous ferons souvent usage de la notation scientifique. ",
     "url": "http://localhost:4000/pages/rappel/",
     "relUrl": "/pages/rappel/"
-  },"21": {
+  },"158": {
     "doc": "Avant de commencer",
     "title": "Notation scientifique",
     "content": "La notation scientifique est une façon utilise pour représenter des nombres qui sont soit trop grands ou trop petits pour être écrits de manière pratique sous forme décimale. On écrira ces nombres sous la forme $n \\times 10 ^m $. Ainsi, pour dire 200, on écrira $2 \\times 10 ^2 $. Voici quelques exemples : . | 1 million = 1 000 000 = $10^6$ | 1 milliard = 1 000 000 000 = $10^9$ | 14 milliards = 14 000 000 000 = $14 \\times 10^9$ = $1.4 \\times 10^{10}$ | . ",
