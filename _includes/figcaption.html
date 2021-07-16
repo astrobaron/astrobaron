@@ -1,6 +1,5 @@
-
-
 <center>
-  <div markdown="1"><i><b>Figure {{ include.no }}.</b></i> {{ include.caption }}
+  {% assign var = var | plus: 1 %}
+  <div markdown="1"><i><b>Figure {{ var }}.</b></i> {{ include.caption }}
   </div>
 </center>

@@ -1,4 +1,5 @@
 <center>
-  <div markdown="1"><i><b>Tableau {{ include.no }}.</b></i> {{ include.caption }}
+  {% assign variable = variable | plus: 1 %}
+  <div markdown="1"><i><b>Tableau {{ variable }}.</b></i> {{ include.caption }}
   </div>
 </center>

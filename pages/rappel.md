@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Avant de commencer
-nav_order: 2
+nav_order: 1
+figno: 0
 ---
 # {{ page.title }}
 
