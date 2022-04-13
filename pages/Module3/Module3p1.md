@@ -191,9 +191,51 @@ Comme nous l'avons vu plus haut, la hauteur du pôle Nord céleste sera aussi de
 
 La course apparente quotidienne du Soleil, sur la sphère céleste, également due au mouvement de rotation de la Terre, peut aussi être représentée de cette façon, mais avec un détail additionnel important : en raison du mouvement orbital de la Terre autour du Soleil au cours de l'année, la morphologie de la trajectoire apparente quotidienne du Soleil, sur la sphère céleste, dépend de la période de l'année. Nous l'illustrons ci-dessous (figure suivante) pour le premier jour des quatre saisons, pour un observateur situé à une latitude géographique de +30$^{\circ}$ N. Notez deux détails importants : en été, le Soleil monte beaucoup plus haut dans le ciel, et il passe une plus grande fraction de sa trajectoire apparente au-dessus de l'horizon.
 
+![img](/assets/images/Module3/lat_long/lat_long.009.jpeg)
+{%capture caption %} Le mouvement apparent du Soleil au début des saisons.  {% endcapture %}
+{% include figcaption.html caption=caption %}
+
 Maintenant, plaçons-nous encore une fois à quelques endroits particuliers sur Terre, afin de voir à quoi ressemblent les trajectoires apparentes du Soleil à ces endroits. Nous choisissons, pour ce faire, un point de latitude 66,5$^{\circ}$ N, ainsi que le pôle Nord. Les trajectoires apparentes du Soleil, à une latitude de 66,5$^{\circ}$ N au début de l'été et au début de l'hiver, sont indiquées sur la figure suivante :
+
+![img](/assets/images/Module3/lat_long/lat_long.010.jpeg)
+{%capture caption %} Le mouvement apparent du Soleil au cercle polaire. {% endcapture %}
+{% include figcaption.html caption=caption %}
 
 C'est le phénomène du Soleil de minuit. Les trajectoires correspondantes du début de l'hiver au cercle polaire et au pôle Nord sont aussi montrées aux figures précédentes. Dans ce cas, à 66,5$^{\circ}$ N, le Soleil ne se lève pas cette journée-là. Au pôle, le Soleil ne se lèvera pas pendant six mois; c'est la nuit polaire.
 
+![img](/assets/images/Module3/lat_long/lat_long.011.jpeg)
+{%capture caption %} Le mouvement apparent du Soleil au pôle Nord.  {% endcapture %}
+{% include figcaption.html caption=caption %}
+
 ## 3.1.6 Le mouvement de révolution et les saisons
+L'existence de **saisons** au cours du mouvement annuel de révolution de la Terre autour du Soleil est attribuable à l'inclinaison de l'écliptique par rapport à l'équateur céleste. La figure 4 montre la course annuelle de la Terre autour du Soleil. Il y a quatre points remarquables sur l'orbite : le point où le pôle Nord terrestre penche le plus vers le Soleil; celui où le pôle Sud penche le plus vers le Soleil; et finalement les deux points où l'axe polaire est perpendiculaire à la direction Terre-Soleil.
+
+Les moments où la Terre atteint ces endroits particuliers de son orbite s'appellent : **solstice d'été** (le 22 juin), **solstice d'hiver** (le 22 décembre), et les **équinoxes d'automne** (le 21 septembre) et **du printemps** (le 21 mars), respectivement. Ces deux termes viennent du latin : solstice de sol, le Soleil, et stare, s'arrêter (aux solstices, le Soleil, ayant atteint son point le plus haut/bas dans le ciel, arrête alors de monter/descendre), et équinoxe vient d'aequi, qui signifie égal, et nox, qui signifie nuit (la durée de la nuit est égale à celle du jour). L'instant précis où la Terre atteint ces quatre points définit le début des saisons.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FmCJqykN2J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+{%capture caption %} Les saisons vues de l'espace. Crédit : NASA. {% endcapture %}
+{% include figcaption.html caption=caption %}
+
+
+
+Puisqu'au solstice d'été, l'hémisphère nord terrestre est penché vers le Soleil, cet hémisphère est considérablement illuminé, et c'est alors l'été. Six mois plus tard, au solstice d'hiver, l'hémisphère nord est penché dans la direction opposée au Soleil, et – en raison de l'illumination diminuée – c'est alors l'hiver dans cet hémisphère. Notez bien que ces saisons sont inversées dans l'hémisphère sud. Lors des saisons intermédiaires, le printemps et l'automne, les deux hémisphères terrestres sont à peu près également illuminés par le Soleil.
+
+
+
+Deux caractéristiques très évidentes des saisons peuvent s'expliquer facilement en termes de l'angle d'inclinaison de l'écliptique par rapport à l'équateur céleste. En consultant la figure ci-dessus et celle ci-dessous, on constate facilement que les jours sont plus longs en été. De plus, le Soleil monte beaucoup plus haut dans le ciel en été. À Montréal, à une latitude de +45+34$^{\circ}$, l'altitude maximale du Soleil (c.-à-d. sa hauteur maximale au-dessus de l'horizon) est de +68,5+34$^{\circ}$ en été et seulement de +21,5+34$^{\circ}$ en hiver. Puisque les rayons du Soleil éclairent plus à la verticale en été, la surface terrestre reçoit alors plus de chaleur par unité de surface. La longueur des jours et l'altitude maximale du Soleil contribuent à faire de l'été, la saison chaude que nous connaissons.
+
+![img](/assets/images/Module3/lat_long/lat_long.012.jpeg)
+{%capture caption %}  L'inclinaison des rayons du Soleil en fonction des saisons  {% endcapture %}
+{% include figcaption.html caption=caption %}
+
+Il est important de noter que c'est bien l'inclinaison de l'axe de rotation qui est responsable des changements de température associés aux saisons, et non pas la variation de la distance de la Terre au Soleil due à son orbite elliptique. En effet, l'orbite de la Terre est presque circulaire, et la distance Terre-Soleil ne varie que d'environ 3 % entre son minimum et son maximum. Ceci cause une variation de l'intensité des rayons du Soleil de 6 %. Par contre, la variation d'intensité associée à la différence d'altitude maximale du Soleil, entre les solstices d'été et d'hiver, cause, à Montréal, une variation d'intensité beaucoup plus grande, d'un facteur 2,5. On pourrait d'ailleurs penser que les hivers devraient être moins froids dans l'hémisphère nord que dans l'hémisphère sud, puisque la Terre atteint sa distance minimale du Soleil (on dit qu'elle est au périhélie) le 5 janvier, c'est-à-dire en plein hiver dans l'hémisphère nord. C'est en fait le contraire qui se passe, et les hivers sont moins froids dans l'hémisphère sud, car les océans plus étendus dans cet hémisphère ont pour effet de tempérer le climat, et cet effet domine celui, minime, associé à la distance Terre-Soleil variable.
+
 ## 3.1.7 L'aspect changeant du ciel
+
+L'aspect changeant du ciel en fonction de la période de l'année est également une conséquence du mouvement de révolution de la Terre autour du Soleil. La figure suivante illustre cet effet. En raison de la course de la Terre au cours de l'année, différentes régions du ciel peuvent être échantillonnées en fonction de la saison. On parle souvent, en astronomie, de constellations d'été et de constellations d'hiver.
+
+![img](/assets/images/Module3/lat_long/lat_long.013.jpeg)
+{%capture caption %}  L'inclinaison des rayons du Soleil en fonction des saisons  {% endcapture %}
+{% include figcaption.html caption=caption %}
