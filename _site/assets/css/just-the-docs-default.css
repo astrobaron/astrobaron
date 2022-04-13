@@ -1,6 +1,8 @@
 @charset "UTF-8";
 .savoir { padding: 5px 5px 5px 5px; background-color: #ffe6ff; }
 
+.exemple { padding: 5px 5px 5px 5px; background-color: #e6f7ff; }
+
 .attention { padding: 5px 5px 5px 5px; background-color: #ffe6e6; }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
