@@ -21,4 +21,6 @@ Cependant, aussi paradoxal que cela puisse paraître, l'origine et l'évolution 
 ## 5.4.3 L'origine des planètes gazeuses
 ## 5.4.4 Les phases finales de la formation d'un système planétaire
 ## 5.4.5 Le rôle des impacts dans l'évolution d'un système planétaire
+### A. L'origine de la Lune
+### B. L'origine de l'eau sur la Terre
 ## 5.4.6 La migration des planètes

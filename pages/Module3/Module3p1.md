@@ -237,5 +237,5 @@ Il est important de noter que c'est bien l'inclinaison de l'axe de rotation qui 
 L'aspect changeant du ciel en fonction de la période de l'année est également une conséquence du mouvement de révolution de la Terre autour du Soleil. La figure suivante illustre cet effet. En raison de la course de la Terre au cours de l'année, différentes régions du ciel peuvent être échantillonnées en fonction de la saison. On parle souvent, en astronomie, de constellations d'été et de constellations d'hiver.
 
 ![img](/assets/images/Module3/lat_long/lat_long.013.jpeg)
-{%capture caption %}  L'inclinaison des rayons du Soleil en fonction des saisons  {% endcapture %}
+{%capture caption %}  La révolution de la Terre et l'aspect du ciel.  {% endcapture %}
 {% include figcaption.html caption=caption %}

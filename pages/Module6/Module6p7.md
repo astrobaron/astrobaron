@@ -17,4 +17,8 @@ Comme nous l'avons mentionné à plusieurs reprises déjà, à notre connaissanc
 
 ## 6.7.1 Les zones habitables
 ## 6.7.2 Écosphère stellaire
+
+### A. Le rôle de la masse et de l'âge d'une étoile
+### B. Le rôle de l'atmosphère et de la stabilité du climat
+
 ## 6.7.3 La zone habitable élargie : la vie dans les mondes glacés

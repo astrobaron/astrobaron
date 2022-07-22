@@ -14,6 +14,13 @@ nav_order: 1\n
 ---
 intro
 ## 6.8.1 La planète Mars
+### A. Le mythe des martiens
+### B. De la vie sur Mars ?
+### C. De la vie en provenance de Mars?
+
 ## 6.8.2 L'océan d'Europe
 ## 6.8.3 Titan, copie de la Terre primitive?
 ## 6.8.4 Ailleurs dans le système solaire
+### A. Encelade
+### B. Vénus
+### C. La Lune

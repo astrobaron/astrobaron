@@ -21,6 +21,34 @@ On admet aujourd'hui que les différentes classes de luminosité (super géantes
 ## 5.3.3 La transformation en géante rouge
 ## 5.3.4 La branche horizontale
 ## 5.3.5 La fin de l'évolution stellaire
+Les dernières phases de l'évolution stellaire dépendent aussi de la masse initiale de l'étoile. La structure interne est alors formée d'un nombre plus ou moins élevé de couches contenant des éléments de plus en plus lourds vers le centre. L'étoile passe par des phases d'instabilité durant son séjour sur la branche horizontale; son enveloppe externe gonfle et dégonfle périodiquement, et l'étoile **pulse**. Nous avons alors une étoile variable puisque sa luminosité change au cours du cycle de pulsation. Nous reviendrons d'ailleurs sur ce point.
+
+Finalement, selon sa masse, les conditions physiques à l'intérieur d'une étoile sont telles que toute réaction nucléaire devient impossible; l'étoile termine alors sa vie nucléaire active. En éteignant sa fournaise nucléaire, une étoile ne peut plus supporter son propre poids et le noyau s'effondre rapidement sous l'effet de la gravité. À ce point, les détails de l'évolution sont encore incertains, mais on sait qu'il y a trois façons possibles pour une étoile de terminer sa vie : sous la forme d'une **naine blanche**, d'une **étoile à neutrons** ou d'un **trou noir**.
+
+### A. Les étoiles de faible masse
+### B. Les étoiles de grande masse
+### C. L'origine des éléments
+
 ## 5.3.6 Les cadavres stellaires
+
+### A. Les naines blanches
+### B. Les étoiles à neutrons
+### C. Les trous noirs
+#### a) Les trous noirs
+#### b) L'évaporation des trous noirs
+
 ## 5.3.7 Les étoiles variables
+
+### A. Les variables pulsantes
+#### a) Les variables de type Mira
+#### b) Les céphéides
+#### c) Les variables de type RR Lyrae
+#### d) Les variables irrégulières
+#### e) Les variables éruptives
+
+### B. Les étoiles à protubérances
+### C. Les étoiles de type T Tauri
+### D. Les novae
+### E. Les supernovae
+
 ## 5.3.8 L'évolution dans le diagramme HR

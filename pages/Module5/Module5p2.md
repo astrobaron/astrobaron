@@ -23,3 +23,5 @@ Le fait que les objets les plus énergétiques sont les plus distants (quasars, 
 ## 5.2.1 La formation d'une galaxie
 ## 5.2.2 L'évolution des galaxies actives
 ## 5.2.3 L'évolution des galaxies normales
+
+### A. Les collisions entre galaxies

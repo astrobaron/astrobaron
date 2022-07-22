@@ -65,5 +65,3 @@ Il en existe une autre de 1,4 milliard de pixels qui est utilisée par le téles
 Les CCDs ont véritablement révolutionné l'astronomie. Le gain en efficacité (90% plutôt que 1% à 4% pour les plaques photographiques) a instantanément permis de sonder l'Univers lointain sans avoir à construire des télescopes plus grands. Maintenant que les détecteurs approchent de la limite d'efficacité de 100 %, on doit revenir à la construction de plus grands télescopes pour étudier plus en détail le cosmos.
 
 Finalement, les astronomes amateurs profitent aussi de la commercialisation à grande échelle de ces caméras électroniques. Leur coût relativement peu élevé et la convivialité des logiciels d'utilisation et d'analyse permettent, à ceux qui pratiquent l'astronomie en dilettante, d'obtenir des images spectaculaires même à l'aide de petits télescopes.
-
-### Les instruments
